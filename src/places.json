@@ -1,0 +1,6535 @@
+  [{
+    "id": 354,
+    "name": "Antipodean Is.",
+    "feature": null,
+    "tdwg_codel": "ATP",
+    "tdwg_level": 3,
+    "species_count": 276,
+    "parent_id": 575
+  },
+  {
+    "id": 368,
+    "name": "South Sandwich Is.",
+    "feature": null,
+    "tdwg_codel": "SSA",
+    "tdwg_level": 3,
+    "species_count": 3,
+    "parent_id": 743
+  },
+  {
+    "id": 369,
+    "name": "Europe",
+    "feature": null,
+    "tdwg_codel": "1",
+    "tdwg_level": 1,
+    "species_count": 125087,
+    "parent_id": null
+  },
+  {
+    "id": 370,
+    "name": "Northern Europe",
+    "feature": null,
+    "tdwg_codel": "10",
+    "tdwg_level": 2,
+    "species_count": 17527,
+    "parent_id": 369
+  },
+  {
+    "id": 335,
+    "name": "Pitcairn Is.",
+    "feature": null,
+    "tdwg_codel": "PIT",
+    "tdwg_level": 3,
+    "species_count": 140,
+    "parent_id": 583
+  },
+  {
+    "id": 38,
+    "name": "Western Sahara",
+    "feature": null,
+    "tdwg_codel": "WSA",
+    "tdwg_level": 3,
+    "species_count": 427,
+    "parent_id": 408
+  },
+  {
+    "id": 7,
+    "name": "Egypt",
+    "feature": null,
+    "tdwg_codel": "EGY",
+    "tdwg_level": 3,
+    "species_count": 2010,
+    "parent_id": 408
+  },
+  {
+    "id": 336,
+    "name": "Kuwait",
+    "feature": null,
+    "tdwg_codel": "KUW",
+    "tdwg_level": 3,
+    "species_count": 366,
+    "parent_id": 458
+  },
+  {
+    "id": 343,
+    "name": "Kermadec Is.",
+    "feature": null,
+    "tdwg_codel": "KER",
+    "tdwg_level": 3,
+    "species_count": 257,
+    "parent_id": 575
+  },
+  {
+    "id": 362,
+    "name": "Heard-McDonald Is.",
+    "feature": null,
+    "tdwg_codel": "HMD",
+    "tdwg_level": 3,
+    "species_count": 11,
+    "parent_id": 743
+  },
+  {
+    "id": 355,
+    "name": "Amsterdam-St.Paul Is",
+    "feature": null,
+    "tdwg_codel": "ASP",
+    "tdwg_level": 3,
+    "species_count": 92,
+    "parent_id": 743
+  },
+  {
+    "id": 352,
+    "name": "Kerguelen",
+    "feature": null,
+    "tdwg_codel": "KEG",
+    "tdwg_level": 3,
+    "species_count": 98,
+    "parent_id": 743
+  },
+  {
+    "id": 351,
+    "name": "Desventurados Is.",
+    "feature": null,
+    "tdwg_codel": "DSV",
+    "tdwg_level": 3,
+    "species_count": 61,
+    "parent_id": 704
+  },
+  {
+    "id": 338,
+    "name": "Selvagens",
+    "feature": null,
+    "tdwg_codel": "SEL",
+    "tdwg_level": 3,
+    "species_count": 108,
+    "parent_id": 411
+  },
+  {
+    "id": 364,
+    "name": "Marion-Prince Edward",
+    "feature": null,
+    "tdwg_codel": "MPE",
+    "tdwg_level": 3,
+    "species_count": 40,
+    "parent_id": 743
+  },
+  {
+    "id": 357,
+    "name": "Wake I.",
+    "feature": null,
+    "tdwg_codel": "WAK",
+    "tdwg_level": 3,
+    "species_count": 50,
+    "parent_id": 586
+  },
+  {
+    "id": 375,
+    "name": "Liechtenstein",
+    "feature": null,
+    "tdwg_codel": "AUT-LI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 275
+  },
+  {
+    "id": 372,
+    "name": "Northern Ireland",
+    "feature": null,
+    "tdwg_codel": "IRE-NI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 286
+  },
+  {
+    "id": 377,
+    "name": "Luxembourg",
+    "feature": null,
+    "tdwg_codel": "BGM-LU",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 278
+  },
+  {
+    "id": 391,
+    "name": "Malta",
+    "feature": null,
+    "tdwg_codel": "SIC-MA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 121
+  },
+  {
+    "id": 393,
+    "name": "Bosnia- Herzegovina",
+    "feature": null,
+    "tdwg_codel": "YUG-BH",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 98
+  },
+  {
+    "id": 378,
+    "name": "Czech Republic",
+    "feature": null,
+    "tdwg_codel": "CZE-CZ",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 99
+  },
+  {
+    "id": 394,
+    "name": "Croatia",
+    "feature": null,
+    "tdwg_codel": "YUG-CR",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 98
+  },
+  {
+    "id": 395,
+    "name": "Kosovo",
+    "feature": null,
+    "tdwg_codel": "YUG-KO",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 98
+  },
+  {
+    "id": 396,
+    "name": "Macedonia",
+    "feature": null,
+    "tdwg_codel": "YUG-MA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 98
+  },
+  {
+    "id": 397,
+    "name": "Montenegro",
+    "feature": null,
+    "tdwg_codel": "YUG-MN",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 98
+  },
+  {
+    "id": 398,
+    "name": "Serbia",
+    "feature": null,
+    "tdwg_codel": "YUG-SE",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 98
+  },
+  {
+    "id": 379,
+    "name": "Slovakia",
+    "feature": null,
+    "tdwg_codel": "CZE-SL",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 99
+  },
+  {
+    "id": 399,
+    "name": "Slovenia",
+    "feature": null,
+    "tdwg_codel": "YUG-SL",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 98
+  },
+  {
+    "id": 400,
+    "name": "Eastern Europe",
+    "feature": null,
+    "tdwg_codel": "14",
+    "tdwg_level": 2,
+    "species_count": 20803,
+    "parent_id": 369
+  },
+  {
+    "id": 401,
+    "name": "Estonia",
+    "feature": null,
+    "tdwg_codel": "BLT-ES",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 276
+  },
+  {
+    "id": 380,
+    "name": "Southwestern Europe",
+    "feature": null,
+    "tdwg_codel": "12",
+    "tdwg_level": 2,
+    "species_count": 23207,
+    "parent_id": 369
+  },
+  {
+    "id": 402,
+    "name": "Kaliningrad",
+    "feature": null,
+    "tdwg_codel": "BLT-KA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 276
+  },
+  {
+    "id": 359,
+    "name": "Crozet Is.",
+    "feature": null,
+    "tdwg_codel": "CRZ",
+    "tdwg_level": 3,
+    "species_count": 74,
+    "parent_id": 743
+  },
+  {
+    "id": 381,
+    "name": "Channel Is.",
+    "feature": null,
+    "tdwg_codel": "FRA-CI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 126
+  },
+  {
+    "id": 403,
+    "name": "Latvia",
+    "feature": null,
+    "tdwg_codel": "BLT-LA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 276
+  },
+  {
+    "id": 404,
+    "name": "Lithuania",
+    "feature": null,
+    "tdwg_codel": "BLT-LI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 276
+  },
+  {
+    "id": 407,
+    "name": "Africa",
+    "feature": null,
+    "tdwg_codel": "2",
+    "tdwg_level": 1,
+    "species_count": 197130,
+    "parent_id": null
+  },
+  {
+    "id": 383,
+    "name": "Monaco",
+    "feature": null,
+    "tdwg_codel": "FRA-MO",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 126
+  },
+  {
+    "id": 408,
+    "name": "Northern Africa",
+    "feature": null,
+    "tdwg_codel": "20",
+    "tdwg_level": 2,
+    "species_count": 14896,
+    "parent_id": 407
+  },
+  {
+    "id": 410,
+    "name": "Spanish North African Territories",
+    "feature": null,
+    "tdwg_codel": "MOR-SP",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 131
+  },
+  {
+    "id": 411,
+    "name": "Macaronesia",
+    "feature": null,
+    "tdwg_codel": "21",
+    "tdwg_level": 2,
+    "species_count": 5381,
+    "parent_id": 407
+  },
+  {
+    "id": 412,
+    "name": "West Tropical Africa",
+    "feature": null,
+    "tdwg_codel": "22",
+    "tdwg_level": 2,
+    "species_count": 30721,
+    "parent_id": 407
+  },
+  {
+    "id": 413,
+    "name": "West-Central Tropical Africa",
+    "feature": null,
+    "tdwg_codel": "23",
+    "tdwg_level": 2,
+    "species_count": 32412,
+    "parent_id": 407
+  },
+  {
+    "id": 414,
+    "name": "Annobón",
+    "feature": null,
+    "tdwg_codel": "GGI-AN",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 53
+  },
+  {
+    "id": 415,
+    "name": "Bioko",
+    "feature": null,
+    "tdwg_codel": "GGI-BI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 53
+  },
+  {
+    "id": 416,
+    "name": "Príncipe",
+    "feature": null,
+    "tdwg_codel": "GGI-PR",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 53
+  },
+  {
+    "id": 417,
+    "name": "São Tomé",
+    "feature": null,
+    "tdwg_codel": "GGI-ST",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 53
+  },
+  {
+    "id": 365,
+    "name": "Marcus I.",
+    "feature": null,
+    "tdwg_codel": "MCS",
+    "tdwg_level": 3,
+    "species_count": 16,
+    "parent_id": 586
+  },
+  {
+    "id": 418,
+    "name": "Northeast Tropical Africa",
+    "feature": null,
+    "tdwg_codel": "24",
+    "tdwg_level": 2,
+    "species_count": 16800,
+    "parent_id": 407
+  },
+  {
+    "id": 419,
+    "name": "East Tropical Africa",
+    "feature": null,
+    "tdwg_codel": "25",
+    "tdwg_level": 2,
+    "species_count": 19309,
+    "parent_id": 407
+  },
+  {
+    "id": 420,
+    "name": "South Tropical Africa",
+    "feature": null,
+    "tdwg_codel": "26",
+    "tdwg_level": 2,
+    "species_count": 24741,
+    "parent_id": 407
+  },
+  {
+    "id": 421,
+    "name": "Southern Africa",
+    "feature": null,
+    "tdwg_codel": "27",
+    "tdwg_level": 2,
+    "species_count": 37792,
+    "parent_id": 407
+  },
+  {
+    "id": 384,
+    "name": "Andorra",
+    "feature": null,
+    "tdwg_codel": "SPA-AN",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 135
+  },
+  {
+    "id": 422,
+    "name": "Eastern Cape Province",
+    "feature": null,
+    "tdwg_codel": "CPP-EC",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 2
+  },
+  {
+    "id": 423,
+    "name": "Northern Cape Province",
+    "feature": null,
+    "tdwg_codel": "CPP-NC",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 2
+  },
+  {
+    "id": 385,
+    "name": "Gibraltar",
+    "feature": null,
+    "tdwg_codel": "SPA-GI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 135
+  },
+  {
+    "id": 424,
+    "name": "Western Cape Province",
+    "feature": null,
+    "tdwg_codel": "CPP-WC",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 2
+  },
+  {
+    "id": 425,
+    "name": "Gauteng",
+    "feature": null,
+    "tdwg_codel": "TVL-GA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 1
+  },
+  {
+    "id": 426,
+    "name": "Mpumalanga",
+    "feature": null,
+    "tdwg_codel": "TVL-MP",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 1
+  },
+  {
+    "id": 427,
+    "name": "Northern Province",
+    "feature": null,
+    "tdwg_codel": "TVL-NP",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 1
+  },
+  {
+    "id": 428,
+    "name": "North-West Province",
+    "feature": null,
+    "tdwg_codel": "TVL-NW",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 1
+  },
+  {
+    "id": 171,
+    "name": "Argentina Northwest",
+    "feature": null,
+    "tdwg_codel": "AGW",
+    "tdwg_level": 3,
+    "species_count": 5991,
+    "parent_id": 704
+  },
+  {
+    "id": 373,
+    "name": "Middle Europe",
+    "feature": null,
+    "tdwg_codel": "11",
+    "tdwg_level": 2,
+    "species_count": 27090,
+    "parent_id": 369
+  },
+  {
+    "id": 387,
+    "name": "Southeastern Europe",
+    "feature": null,
+    "tdwg_codel": "13",
+    "tdwg_level": 2,
+    "species_count": 36460,
+    "parent_id": 369
+  },
+  {
+    "id": 389,
+    "name": "San Marino",
+    "feature": null,
+    "tdwg_codel": "ITA-SM",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 119
+  },
+  {
+    "id": 390,
+    "name": "Vatican City",
+    "feature": null,
+    "tdwg_codel": "ITA-VC",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 119
+  },
+  {
+    "id": 405,
+    "name": "Moldova",
+    "feature": null,
+    "tdwg_codel": "UKR-MO",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 273
+  },
+  {
+    "id": 361,
+    "name": "South Georgia",
+    "feature": null,
+    "tdwg_codel": "SGE",
+    "tdwg_level": 3,
+    "species_count": 82,
+    "parent_id": 743
+  },
+  {
+    "id": 363,
+    "name": "Macquarie Is.",
+    "feature": null,
+    "tdwg_codel": "MAQ",
+    "tdwg_level": 3,
+    "species_count": 55,
+    "parent_id": 743
+  },
+  {
+    "id": 429,
+    "name": "Middle Atlantic Ocean",
+    "feature": null,
+    "tdwg_codel": "28",
+    "tdwg_level": 2,
+    "species_count": 644,
+    "parent_id": 407
+  },
+  {
+    "id": 457,
+    "name": "Israel",
+    "feature": null,
+    "tdwg_codel": "PAL-IS",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 117
+  },
+  {
+    "id": 433,
+    "name": "Asia-Temperate",
+    "feature": null,
+    "tdwg_codel": "3",
+    "tdwg_level": 1,
+    "species_count": 156500,
+    "parent_id": null
+  },
+  {
+    "id": 434,
+    "name": "Siberia",
+    "feature": null,
+    "tdwg_codel": "30",
+    "tdwg_level": 2,
+    "species_count": 14376,
+    "parent_id": 433
+  },
+  {
+    "id": 432,
+    "name": "Mayotte",
+    "feature": null,
+    "tdwg_codel": "COM-MA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 102
+  },
+  {
+    "id": 435,
+    "name": "Russian Far East",
+    "feature": null,
+    "tdwg_codel": "31",
+    "tdwg_level": 2,
+    "species_count": 10113,
+    "parent_id": 433
+  },
+  {
+    "id": 436,
+    "name": "Middle Asia",
+    "feature": null,
+    "tdwg_codel": "32",
+    "tdwg_level": 2,
+    "species_count": 18008,
+    "parent_id": 433
+  },
+  {
+    "id": 438,
+    "name": "Chechnya",
+    "feature": null,
+    "tdwg_codel": "NCS-CH",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 288
+  },
+  {
+    "id": 439,
+    "name": "Dagestan",
+    "feature": null,
+    "tdwg_codel": "NCS-DA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 288
+  },
+  {
+    "id": 440,
+    "name": "Ingushetiya",
+    "feature": null,
+    "tdwg_codel": "NCS-IN",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 288
+  },
+  {
+    "id": 441,
+    "name": "Kabardino-Balkariya",
+    "feature": null,
+    "tdwg_codel": "NCS-KB",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 288
+  },
+  {
+    "id": 442,
+    "name": "Karacheyevo-Cherkessiya",
+    "feature": null,
+    "tdwg_codel": "NCS-KC",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 288
+  },
+  {
+    "id": 443,
+    "name": "Krasnodar",
+    "feature": null,
+    "tdwg_codel": "NCS-KR",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 288
+  },
+  {
+    "id": 444,
+    "name": "Severo-Osetiya",
+    "feature": null,
+    "tdwg_codel": "NCS-SO",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 288
+  },
+  {
+    "id": 445,
+    "name": "Stavropol",
+    "feature": null,
+    "tdwg_codel": "NCS-ST",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 288
+  },
+  {
+    "id": 446,
+    "name": "Abkhaziya",
+    "feature": null,
+    "tdwg_codel": "TCS-AB",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 272
+  },
+  {
+    "id": 447,
+    "name": "Adzhariya",
+    "feature": null,
+    "tdwg_codel": "TCS-AD",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 272
+  },
+  {
+    "id": 449,
+    "name": "Azerbaijan",
+    "feature": null,
+    "tdwg_codel": "TCS-AZ",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 272
+  },
+  {
+    "id": 450,
+    "name": "Gruziya",
+    "feature": null,
+    "tdwg_codel": "TCS-GR",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 272
+  },
+  {
+    "id": 451,
+    "name": "Nakhichevan",
+    "feature": null,
+    "tdwg_codel": "TCS-NA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 272
+  },
+  {
+    "id": 452,
+    "name": "Nagorno Karabakh",
+    "feature": null,
+    "tdwg_codel": "TCS-NK",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 272
+  },
+  {
+    "id": 453,
+    "name": "Western Asia",
+    "feature": null,
+    "tdwg_codel": "34",
+    "tdwg_level": 2,
+    "species_count": 35942,
+    "parent_id": 433
+  },
+  {
+    "id": 454,
+    "name": "Lebanon",
+    "feature": null,
+    "tdwg_codel": "LBS-LB",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 109
+  },
+  {
+    "id": 455,
+    "name": "Syria",
+    "feature": null,
+    "tdwg_codel": "LBS-SY",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 109
+  },
+  {
+    "id": 458,
+    "name": "Arabian Peninsula",
+    "feature": null,
+    "tdwg_codel": "35",
+    "tdwg_level": 2,
+    "species_count": 6021,
+    "parent_id": 433
+  },
+  {
+    "id": 459,
+    "name": "Bahrain",
+    "feature": null,
+    "tdwg_codel": "GST-BA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 10
+  },
+  {
+    "id": 460,
+    "name": "Qatar",
+    "feature": null,
+    "tdwg_codel": "GST-QA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 10
+  },
+  {
+    "id": 461,
+    "name": "United Arab Emirates",
+    "feature": null,
+    "tdwg_codel": "GST-UA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 10
+  },
+  {
+    "id": 462,
+    "name": "North Yemen",
+    "feature": null,
+    "tdwg_codel": "YEM-NY",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 24
+  },
+  {
+    "id": 463,
+    "name": "South Yemen",
+    "feature": null,
+    "tdwg_codel": "YEM-SY",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 24
+  },
+  {
+    "id": 464,
+    "name": "China",
+    "feature": null,
+    "tdwg_codel": "36",
+    "tdwg_level": 2,
+    "species_count": 46828,
+    "parent_id": 433
+  },
+  {
+    "id": 465,
+    "name": "Chongqing",
+    "feature": null,
+    "tdwg_codel": "CHC-CQ",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 45
+  },
+  {
+    "id": 466,
+    "name": "Guizhou",
+    "feature": null,
+    "tdwg_codel": "CHC-GZ",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 45
+  },
+  {
+    "id": 467,
+    "name": "Hubei",
+    "feature": null,
+    "tdwg_codel": "CHC-HU",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 45
+  },
+  {
+    "id": 468,
+    "name": "Sichuan",
+    "feature": null,
+    "tdwg_codel": "CHC-SC",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 45
+  },
+  {
+    "id": 470,
+    "name": "Nei Mongol",
+    "feature": null,
+    "tdwg_codel": "CHI-NM",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 317
+  },
+  {
+    "id": 471,
+    "name": "Ningxia",
+    "feature": null,
+    "tdwg_codel": "CHI-NX",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 317
+  },
+  {
+    "id": 472,
+    "name": "Heilongjiang",
+    "feature": null,
+    "tdwg_codel": "CHM-HJ",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 310
+  },
+  {
+    "id": 473,
+    "name": "Jilin",
+    "feature": null,
+    "tdwg_codel": "CHM-JL",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 310
+  },
+  {
+    "id": 474,
+    "name": "Liaoning",
+    "feature": null,
+    "tdwg_codel": "CHM-LN",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 310
+  },
+  {
+    "id": 475,
+    "name": "Beijing",
+    "feature": null,
+    "tdwg_codel": "CHN-BJ",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 249
+  },
+  {
+    "id": 476,
+    "name": "Gansu",
+    "feature": null,
+    "tdwg_codel": "CHN-GS",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 249
+  },
+  {
+    "id": 477,
+    "name": "Hebei",
+    "feature": null,
+    "tdwg_codel": "CHN-HB",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 249
+  },
+  {
+    "id": 478,
+    "name": "Shaanxi",
+    "feature": null,
+    "tdwg_codel": "CHN-SA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 249
+  },
+  {
+    "id": 479,
+    "name": "Shandong",
+    "feature": null,
+    "tdwg_codel": "CHN-SD",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 249
+  },
+  {
+    "id": 480,
+    "name": "Shanxi",
+    "feature": null,
+    "tdwg_codel": "CHN-SX",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 249
+  },
+  {
+    "id": 481,
+    "name": "Tianjin",
+    "feature": null,
+    "tdwg_codel": "CHN-TJ",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 249
+  },
+  {
+    "id": 482,
+    "name": "Anhui",
+    "feature": null,
+    "tdwg_codel": "CHS-AH",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 46
+  },
+  {
+    "id": 483,
+    "name": "Fujian",
+    "feature": null,
+    "tdwg_codel": "CHS-FJ",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 46
+  },
+  {
+    "id": 484,
+    "name": "Guangdong",
+    "feature": null,
+    "tdwg_codel": "CHS-GD",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 46
+  },
+  {
+    "id": 485,
+    "name": "Guangxi",
+    "feature": null,
+    "tdwg_codel": "CHS-GX",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 46
+  },
+  {
+    "id": 486,
+    "name": "Henan",
+    "feature": null,
+    "tdwg_codel": "CHS-HE",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 46
+  },
+  {
+    "id": 487,
+    "name": "Hong Kong",
+    "feature": null,
+    "tdwg_codel": "CHS-HK",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 46
+  },
+  {
+    "id": 488,
+    "name": "Hunan",
+    "feature": null,
+    "tdwg_codel": "CHS-HN",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 46
+  },
+  {
+    "id": 489,
+    "name": "Jiangsu",
+    "feature": null,
+    "tdwg_codel": "CHS-JS",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 46
+  },
+  {
+    "id": 490,
+    "name": "Jiangxi",
+    "feature": null,
+    "tdwg_codel": "CHS-JX",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 46
+  },
+  {
+    "id": 226,
+    "name": "Korea",
+    "feature": null,
+    "tdwg_codel": "KOR",
+    "tdwg_level": 3,
+    "species_count": 4048,
+    "parent_id": 497
+  },
+  {
+    "id": 430,
+    "name": "Western Indian Ocean",
+    "feature": null,
+    "tdwg_codel": "29",
+    "tdwg_level": 2,
+    "species_count": 14434,
+    "parent_id": 407
+  },
+  {
+    "id": 456,
+    "name": "Jordan",
+    "feature": null,
+    "tdwg_codel": "PAL-JO",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 117
+  },
+  {
+    "id": 437,
+    "name": "Caucasus",
+    "feature": null,
+    "tdwg_codel": "33",
+    "tdwg_level": 2,
+    "species_count": 8012,
+    "parent_id": 433
+  },
+  {
+    "id": 448,
+    "name": "Armenia",
+    "feature": null,
+    "tdwg_codel": "TCS-AR",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 272
+  },
+  {
+    "id": 469,
+    "name": "Yunnan",
+    "feature": null,
+    "tdwg_codel": "CHC-YN",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 45
+  },
+  {
+    "id": 520,
+    "name": "Dadra-Nagar-Haveli",
+    "feature": null,
+    "tdwg_codel": "IND-DD",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 521,
+    "name": "Delhi",
+    "feature": null,
+    "tdwg_codel": "IND-DE",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 522,
+    "name": "Diu",
+    "feature": null,
+    "tdwg_codel": "IND-DI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 523,
+    "name": "Daman",
+    "feature": null,
+    "tdwg_codel": "IND-DM",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 524,
+    "name": "Goa",
+    "feature": null,
+    "tdwg_codel": "IND-GO",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 525,
+    "name": "Gujarat",
+    "feature": null,
+    "tdwg_codel": "IND-GU",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 526,
+    "name": "Haryana",
+    "feature": null,
+    "tdwg_codel": "IND-HA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 243,
+    "name": "Vermont",
+    "feature": null,
+    "tdwg_codel": "VER",
+    "tdwg_level": 3,
+    "species_count": 2518,
+    "parent_id": 603
+  },
+  {
+    "id": 497,
+    "name": "Eastern Asia",
+    "feature": null,
+    "tdwg_codel": "38",
+    "tdwg_level": 2,
+    "species_count": 14690,
+    "parent_id": 433
+  },
+  {
+    "id": 498,
+    "name": "Hokkaido",
+    "feature": null,
+    "tdwg_codel": "JAP-HK",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 202
+  },
+  {
+    "id": 516,
+    "name": "Andhra Pradesh",
+    "feature": null,
+    "tdwg_codel": "IND-AP",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 491,
+    "name": "Kin-Men",
+    "feature": null,
+    "tdwg_codel": "CHS-KI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 46
+  },
+  {
+    "id": 517,
+    "name": "Bihar",
+    "feature": null,
+    "tdwg_codel": "IND-BI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 492,
+    "name": "Macau",
+    "feature": null,
+    "tdwg_codel": "CHS-MA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 46
+  },
+  {
+    "id": 493,
+    "name": "Ma-tsu-Pai-chuan",
+    "feature": null,
+    "tdwg_codel": "CHS-MP",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 46
+  },
+  {
+    "id": 494,
+    "name": "Shanghai",
+    "feature": null,
+    "tdwg_codel": "CHS-SH",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 46
+  },
+  {
+    "id": 499,
+    "name": "Honshu",
+    "feature": null,
+    "tdwg_codel": "JAP-HN",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 202
+  },
+  {
+    "id": 495,
+    "name": "Zhejiang",
+    "feature": null,
+    "tdwg_codel": "CHS-ZJ",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 46
+  },
+  {
+    "id": 496,
+    "name": "Mongolia",
+    "feature": null,
+    "tdwg_codel": "37",
+    "tdwg_level": 2,
+    "species_count": 2510,
+    "parent_id": 433
+  },
+  {
+    "id": 500,
+    "name": "Kyushu",
+    "feature": null,
+    "tdwg_codel": "JAP-KY",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 202
+  },
+  {
+    "id": 501,
+    "name": "Shikoku",
+    "feature": null,
+    "tdwg_codel": "JAP-SH",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 202
+  },
+  {
+    "id": 502,
+    "name": "North Korea",
+    "feature": null,
+    "tdwg_codel": "KOR-NK",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 226
+  },
+  {
+    "id": 503,
+    "name": "South Korea",
+    "feature": null,
+    "tdwg_codel": "KOR-SK",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 226
+  },
+  {
+    "id": 504,
+    "name": "Asia-Tropical",
+    "feature": null,
+    "tdwg_codel": "4",
+    "tdwg_level": 1,
+    "species_count": 132136,
+    "parent_id": null
+  },
+  {
+    "id": 505,
+    "name": "Indian Subcontinent",
+    "feature": null,
+    "tdwg_codel": "40",
+    "tdwg_level": 2,
+    "species_count": 39082,
+    "parent_id": 504
+  },
+  {
+    "id": 507,
+    "name": "Manipur",
+    "feature": null,
+    "tdwg_codel": "ASS-MA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 40
+  },
+  {
+    "id": 508,
+    "name": "Meghalaya",
+    "feature": null,
+    "tdwg_codel": "ASS-ME",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 40
+  },
+  {
+    "id": 509,
+    "name": "Mizoram",
+    "feature": null,
+    "tdwg_codel": "ASS-MI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 40
+  },
+  {
+    "id": 510,
+    "name": "Nagaland",
+    "feature": null,
+    "tdwg_codel": "ASS-NA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 40
+  },
+  {
+    "id": 518,
+    "name": "Chandigarh",
+    "feature": null,
+    "tdwg_codel": "IND-CH",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 511,
+    "name": "Tripura",
+    "feature": null,
+    "tdwg_codel": "ASS-TR",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 40
+  },
+  {
+    "id": 519,
+    "name": "Chhattisgarh",
+    "feature": null,
+    "tdwg_codel": "IND-CT",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 512,
+    "name": "Arunachal Pradesh",
+    "feature": null,
+    "tdwg_codel": "EHM-AP",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 48
+  },
+  {
+    "id": 513,
+    "name": "Bhutan",
+    "feature": null,
+    "tdwg_codel": "EHM-BH",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 48
+  },
+  {
+    "id": 514,
+    "name": "Darjiling",
+    "feature": null,
+    "tdwg_codel": "EHM-DJ",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 48
+  },
+  {
+    "id": 515,
+    "name": "Sikkim",
+    "feature": null,
+    "tdwg_codel": "EHM-SI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 48
+  },
+  {
+    "id": 545,
+    "name": "Indo-China",
+    "feature": null,
+    "tdwg_codel": "41",
+    "tdwg_level": 2,
+    "species_count": 36031,
+    "parent_id": 504
+  },
+  {
+    "id": 551,
+    "name": "Brunei",
+    "feature": null,
+    "tdwg_codel": "BOR-BR",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 185
+  },
+  {
+    "id": 552,
+    "name": "Kalimantan",
+    "feature": null,
+    "tdwg_codel": "BOR-KA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 185
+  },
+  {
+    "id": 553,
+    "name": "Sabah",
+    "feature": null,
+    "tdwg_codel": "BOR-SB",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 185
+  },
+  {
+    "id": 554,
+    "name": "Sarawak",
+    "feature": null,
+    "tdwg_codel": "BOR-SR",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 185
+  },
+  {
+    "id": 555,
+    "name": "Bali",
+    "feature": null,
+    "tdwg_codel": "LSI-BA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 110
+  },
+  {
+    "id": 556,
+    "name": "East Timor",
+    "feature": null,
+    "tdwg_codel": "LSI-ET",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 110
+  },
+  {
+    "id": 558,
+    "name": "Peninsular Malaysia",
+    "feature": null,
+    "tdwg_codel": "MLY-PM",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 58
+  },
+  {
+    "id": 559,
+    "name": "Singapore",
+    "feature": null,
+    "tdwg_codel": "MLY-SI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 58
+  },
+  {
+    "id": 560,
+    "name": "Papuasia",
+    "feature": null,
+    "tdwg_codel": "43",
+    "tdwg_level": 2,
+    "species_count": 13498,
+    "parent_id": 504
+  },
+  {
+    "id": 561,
+    "name": "Papua New Guinea",
+    "feature": null,
+    "tdwg_codel": "NWG-PN",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 61
+  },
+  {
+    "id": 562,
+    "name": "Irian Jaya",
+    "feature": null,
+    "tdwg_codel": "NWG-IJ",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 61
+  },
+  {
+    "id": 563,
+    "name": "North Solomons",
+    "feature": null,
+    "tdwg_codel": "SOL-NO",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 113
+  },
+  {
+    "id": 564,
+    "name": "South Solomons",
+    "feature": null,
+    "tdwg_codel": "SOL-SO",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 113
+  },
+  {
+    "id": 565,
+    "name": "Australasia",
+    "feature": null,
+    "tdwg_codel": "5",
+    "tdwg_level": 1,
+    "species_count": 37027,
+    "parent_id": null
+  },
+  {
+    "id": 566,
+    "name": "Australia",
+    "feature": null,
+    "tdwg_codel": "50",
+    "tdwg_level": 2,
+    "species_count": 32072,
+    "parent_id": 565
+  },
+  {
+    "id": 256,
+    "name": "Rhode I.",
+    "feature": null,
+    "tdwg_codel": "RHO",
+    "tdwg_level": 3,
+    "species_count": 1772,
+    "parent_id": 603
+  },
+  {
+    "id": 254,
+    "name": "Masachusettes",
+    "feature": null,
+    "tdwg_codel": "MAS",
+    "tdwg_level": 3,
+    "species_count": 2711,
+    "parent_id": 603
+  },
+  {
+    "id": 527,
+    "name": "Jharkhand",
+    "feature": null,
+    "tdwg_codel": "IND-JK",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 528,
+    "name": "Kerala",
+    "feature": null,
+    "tdwg_codel": "IND-KE",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 541,
+    "name": "Yanam",
+    "feature": null,
+    "tdwg_codel": "IND-YA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 529,
+    "name": "Karaikal",
+    "feature": null,
+    "tdwg_codel": "IND-KL",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 530,
+    "name": "Karnataka",
+    "feature": null,
+    "tdwg_codel": "IND-KT",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 531,
+    "name": "Mahe",
+    "feature": null,
+    "tdwg_codel": "IND-MH",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 532,
+    "name": "Madhya Pradesh",
+    "feature": null,
+    "tdwg_codel": "IND-MP",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 533,
+    "name": "Maharashtra",
+    "feature": null,
+    "tdwg_codel": "IND-MR",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 534,
+    "name": "Orissa",
+    "feature": null,
+    "tdwg_codel": "IND-OR",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 542,
+    "name": "Himachal Pradesh",
+    "feature": null,
+    "tdwg_codel": "WHM-HP",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 73
+  },
+  {
+    "id": 535,
+    "name": "Pondicherry",
+    "feature": null,
+    "tdwg_codel": "IND-PO",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 536,
+    "name": "Punjab",
+    "feature": null,
+    "tdwg_codel": "IND-PU",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 537,
+    "name": "Rajasthan",
+    "feature": null,
+    "tdwg_codel": "IND-RA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 543,
+    "name": "Jammu-Kashmir",
+    "feature": null,
+    "tdwg_codel": "WHM-JK",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 73
+  },
+  {
+    "id": 547,
+    "name": "Coco Is.",
+    "feature": null,
+    "tdwg_codel": "AND-CO",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 39
+  },
+  {
+    "id": 548,
+    "name": "Paracel Is.",
+    "feature": null,
+    "tdwg_codel": "SCS-PI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 197
+  },
+  {
+    "id": 544,
+    "name": "Uttaranchal",
+    "feature": null,
+    "tdwg_codel": "WHM-UT",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 73
+  },
+  {
+    "id": 550,
+    "name": "Malesia",
+    "feature": null,
+    "tdwg_codel": "42",
+    "tdwg_level": 2,
+    "species_count": 43525,
+    "parent_id": 504
+  },
+  {
+    "id": 549,
+    "name": "Spratly Is.",
+    "feature": null,
+    "tdwg_codel": "SCS-SI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 197
+  },
+  {
+    "id": 538,
+    "name": "Tamil Nadu",
+    "feature": null,
+    "tdwg_codel": "IND-TN",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 539,
+    "name": "Uttar Pradesh",
+    "feature": null,
+    "tdwg_codel": "IND-UP",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 540,
+    "name": "West Bengal",
+    "feature": null,
+    "tdwg_codel": "IND-WB",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 28
+  },
+  {
+    "id": 331,
+    "name": "South Dakota",
+    "feature": null,
+    "tdwg_codel": "SDA",
+    "tdwg_level": 3,
+    "species_count": 1700,
+    "parent_id": 602
+  },
+  {
+    "id": 330,
+    "name": "Saskatchewan",
+    "feature": null,
+    "tdwg_codel": "SAS",
+    "tdwg_level": 3,
+    "species_count": 1541,
+    "parent_id": 597
+  },
+  {
+    "id": 571,
+    "name": "Coral Sea Is. Territory",
+    "feature": null,
+    "tdwg_codel": "QLD-CS",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 67
+  },
+  {
+    "id": 573,
+    "name": "Ashmore-Cartier Is.",
+    "feature": null,
+    "tdwg_codel": "WAU-AC",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 74
+  },
+  {
+    "id": 575,
+    "name": "New Zealand",
+    "feature": null,
+    "tdwg_codel": "51",
+    "tdwg_level": 2,
+    "species_count": 4955,
+    "parent_id": 565
+  },
+  {
+    "id": 576,
+    "name": "Pacific",
+    "feature": null,
+    "tdwg_codel": "6",
+    "tdwg_level": 1,
+    "species_count": 15323,
+    "parent_id": null
+  },
+  {
+    "id": 577,
+    "name": "Southwestern Pacific",
+    "feature": null,
+    "tdwg_codel": "60",
+    "tdwg_level": 2,
+    "species_count": 8728,
+    "parent_id": 576
+  },
+  {
+    "id": 578,
+    "name": "American Samoa",
+    "feature": null,
+    "tdwg_codel": "SAM-AS",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 220
+  },
+  {
+    "id": 580,
+    "name": "Manihiki Is.",
+    "feature": null,
+    "tdwg_codel": "TOK-MA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 248
+  },
+  {
+    "id": 581,
+    "name": "Swains I.",
+    "feature": null,
+    "tdwg_codel": "TOK-SW",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 248
+  },
+  {
+    "id": 582,
+    "name": "Tokelau",
+    "feature": null,
+    "tdwg_codel": "TOK-TO",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 248
+  },
+  {
+    "id": 589,
+    "name": "Guam",
+    "feature": null,
+    "tdwg_codel": "MRN-GU",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 180
+  },
+  {
+    "id": 590,
+    "name": "Northern Marianas",
+    "feature": null,
+    "tdwg_codel": "MRN-NM",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 180
+  },
+  {
+    "id": 591,
+    "name": "North-Central Pacific",
+    "feature": null,
+    "tdwg_codel": "63",
+    "tdwg_level": 2,
+    "species_count": 2176,
+    "parent_id": 576
+  },
+  {
+    "id": 602,
+    "name": "North-Central U.S.A.",
+    "feature": null,
+    "tdwg_codel": "74",
+    "tdwg_level": 2,
+    "species_count": 21341,
+    "parent_id": 595
+  },
+  {
+    "id": 592,
+    "name": "Hawaiian Is.",
+    "feature": null,
+    "tdwg_codel": "HAW-HI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 183
+  },
+  {
+    "id": 603,
+    "name": "Northeastern U.S.A.",
+    "feature": null,
+    "tdwg_codel": "75",
+    "tdwg_level": 2,
+    "species_count": 32107,
+    "parent_id": 595
+  },
+  {
+    "id": 593,
+    "name": "Johnston I.",
+    "feature": null,
+    "tdwg_codel": "HAW-JI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 183
+  },
+  {
+    "id": 604,
+    "name": "Southwestern U.S.A.",
+    "feature": null,
+    "tdwg_codel": "76",
+    "tdwg_level": 2,
+    "species_count": 18193,
+    "parent_id": 595
+  },
+  {
+    "id": 605,
+    "name": "South-Central U.S.A.",
+    "feature": null,
+    "tdwg_codel": "77",
+    "tdwg_level": 2,
+    "species_count": 9512,
+    "parent_id": 595
+  },
+  {
+    "id": 606,
+    "name": "Southeastern U.S.A.",
+    "feature": null,
+    "tdwg_codel": "78",
+    "tdwg_level": 2,
+    "species_count": 40281,
+    "parent_id": 595
+  },
+  {
+    "id": 607,
+    "name": "Mexico",
+    "feature": null,
+    "tdwg_codel": "79",
+    "tdwg_level": 2,
+    "species_count": 50595,
+    "parent_id": 595
+  },
+  {
+    "id": 594,
+    "name": "Midway Is.",
+    "feature": null,
+    "tdwg_codel": "HAW-MI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 183
+  },
+  {
+    "id": 608,
+    "name": "Mexico Distrito Federal",
+    "feature": null,
+    "tdwg_codel": "MXC-DF",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 130
+  },
+  {
+    "id": 609,
+    "name": "Mexico State",
+    "feature": null,
+    "tdwg_codel": "MXC-ME",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 130
+  },
+  {
+    "id": 610,
+    "name": "Morelos",
+    "feature": null,
+    "tdwg_codel": "MXC-MO",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 130
+  },
+  {
+    "id": 611,
+    "name": "Puebla",
+    "feature": null,
+    "tdwg_codel": "MXC-PU",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 130
+  },
+  {
+    "id": 612,
+    "name": "Tlaxcala",
+    "feature": null,
+    "tdwg_codel": "MXC-TL",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 130
+  },
+  {
+    "id": 613,
+    "name": "Aguascalientes",
+    "feature": null,
+    "tdwg_codel": "MXE-AG",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 148
+  },
+  {
+    "id": 614,
+    "name": "Coahuila",
+    "feature": null,
+    "tdwg_codel": "MXE-CO",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 148
+  },
+  {
+    "id": 14,
+    "name": "Mauritania",
+    "feature": null,
+    "tdwg_codel": "MTN",
+    "tdwg_level": 3,
+    "species_count": 1181,
+    "parent_id": 412
+  },
+  {
+    "id": 595,
+    "name": "Northern America",
+    "feature": null,
+    "tdwg_codel": "7",
+    "tdwg_level": 1,
+    "species_count": 215263,
+    "parent_id": null
+  },
+  {
+    "id": 298,
+    "name": "Colorado",
+    "feature": null,
+    "tdwg_codel": "COL",
+    "tdwg_level": 3,
+    "species_count": 3606,
+    "parent_id": 601
+  },
+  {
+    "id": 583,
+    "name": "South-Central Pacific",
+    "feature": null,
+    "tdwg_codel": "61",
+    "tdwg_level": 2,
+    "species_count": 2646,
+    "parent_id": 576
+  },
+  {
+    "id": 567,
+    "name": "Lord Howe I.",
+    "feature": null,
+    "tdwg_codel": "NFK-LH",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 209
+  },
+  {
+    "id": 584,
+    "name": "Kiribati Line Is.",
+    "feature": null,
+    "tdwg_codel": "LIN-KI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 339
+  },
+  {
+    "id": 585,
+    "name": "U.S. Line Is.",
+    "feature": null,
+    "tdwg_codel": "LIN-US",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 339
+  },
+  {
+    "id": 568,
+    "name": "Norfolk I.",
+    "feature": null,
+    "tdwg_codel": "NFK-NI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 209
+  },
+  {
+    "id": 586,
+    "name": "Northwestern Pacific",
+    "feature": null,
+    "tdwg_codel": "62",
+    "tdwg_level": 2,
+    "species_count": 1773,
+    "parent_id": 576
+  },
+  {
+    "id": 569,
+    "name": "Australian Capital Territory",
+    "feature": null,
+    "tdwg_codel": "NSW-CT",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 196
+  },
+  {
+    "id": 588,
+    "name": "Palau",
+    "feature": null,
+    "tdwg_codel": "CRL-PA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 207
+  },
+  {
+    "id": 315,
+    "name": "Oregon",
+    "feature": null,
+    "tdwg_codel": "ORE",
+    "tdwg_level": 3,
+    "species_count": 4145,
+    "parent_id": 601
+  },
+  {
+    "id": 587,
+    "name": "Micronesia Federated States",
+    "feature": null,
+    "tdwg_codel": "CRL-MF",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 207
+  },
+  {
+    "id": 596,
+    "name": "Subarctic America",
+    "feature": null,
+    "tdwg_codel": "70",
+    "tdwg_level": 2,
+    "species_count": 5510,
+    "parent_id": 595
+  },
+  {
+    "id": 597,
+    "name": "Western Canada",
+    "feature": null,
+    "tdwg_codel": "71",
+    "tdwg_level": 2,
+    "species_count": 7927,
+    "parent_id": 595
+  },
+  {
+    "id": 598,
+    "name": "Eastern Canada",
+    "feature": null,
+    "tdwg_codel": "72",
+    "tdwg_level": 2,
+    "species_count": 11220,
+    "parent_id": 595
+  },
+  {
+    "id": 600,
+    "name": "St. Pierre-Miquelon",
+    "feature": null,
+    "tdwg_codel": "NFL-SP",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 300
+  },
+  {
+    "id": 601,
+    "name": "Northwestern U.S.A.",
+    "feature": null,
+    "tdwg_codel": "73",
+    "tdwg_level": 2,
+    "species_count": 18577,
+    "parent_id": 595
+  },
+  {
+    "id": 616,
+    "name": "Durango",
+    "feature": null,
+    "tdwg_codel": "MXE-DU",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 148
+  },
+  {
+    "id": 618,
+    "name": "Hidalgo",
+    "feature": null,
+    "tdwg_codel": "MXE-HI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 148
+  },
+  {
+    "id": 619,
+    "name": "Nuevo León",
+    "feature": null,
+    "tdwg_codel": "MXE-NL",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 148
+  },
+  {
+    "id": 620,
+    "name": "Querétaro",
+    "feature": null,
+    "tdwg_codel": "MXE-QU",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 148
+  },
+  {
+    "id": 621,
+    "name": "San Luis Potosí",
+    "feature": null,
+    "tdwg_codel": "MXE-SL",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 148
+  },
+  {
+    "id": 622,
+    "name": "Tamaulipas",
+    "feature": null,
+    "tdwg_codel": "MXE-TA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 148
+  },
+  {
+    "id": 623,
+    "name": "Zacatecas",
+    "feature": null,
+    "tdwg_codel": "MXE-ZA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 148
+  },
+  {
+    "id": 624,
+    "name": "Veracruz",
+    "feature": null,
+    "tdwg_codel": "MXG-VC",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 147
+  },
+  {
+    "id": 627,
+    "name": "Revillagigedo Is.",
+    "feature": null,
+    "tdwg_codel": "MXI-RG",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 247
+  },
+  {
+    "id": 628,
+    "name": "Baja California",
+    "feature": null,
+    "tdwg_codel": "MXN-BC",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 165
+  },
+  {
+    "id": 629,
+    "name": "Baja California Sur",
+    "feature": null,
+    "tdwg_codel": "MXN-BS",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 165
+  },
+  {
+    "id": 630,
+    "name": "Sinaloa",
+    "feature": null,
+    "tdwg_codel": "MXN-SI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 165
+  },
+  {
+    "id": 631,
+    "name": "Sonora",
+    "feature": null,
+    "tdwg_codel": "MXN-SO",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 165
+  },
+  {
+    "id": 632,
+    "name": "Colima",
+    "feature": null,
+    "tdwg_codel": "MXS-CL",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 88
+  },
+  {
+    "id": 633,
+    "name": "Guerrero",
+    "feature": null,
+    "tdwg_codel": "MXS-GR",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 88
+  },
+  {
+    "id": 634,
+    "name": "Jalisco",
+    "feature": null,
+    "tdwg_codel": "MXS-JA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 88
+  },
+  {
+    "id": 635,
+    "name": "Michoacan",
+    "feature": null,
+    "tdwg_codel": "MXS-MI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 88
+  },
+  {
+    "id": 636,
+    "name": "Nayarit",
+    "feature": null,
+    "tdwg_codel": "MXS-NA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 88
+  },
+  {
+    "id": 643,
+    "name": "Southern America",
+    "feature": null,
+    "tdwg_codel": "8",
+    "tdwg_level": 1,
+    "species_count": 241868,
+    "parent_id": null
+  },
+  {
+    "id": 644,
+    "name": "Central America",
+    "feature": null,
+    "tdwg_codel": "80",
+    "tdwg_level": 2,
+    "species_count": 40783,
+    "parent_id": 643
+  },
+  {
+    "id": 645,
+    "name": "Clipperton I.",
+    "feature": null,
+    "tdwg_codel": "CPI-CL",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 358
+  },
+  {
+    "id": 646,
+    "name": "Cocos I.",
+    "feature": null,
+    "tdwg_codel": "CPI-CO",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 358
+  },
+  {
+    "id": 647,
+    "name": "Malpelo I.",
+    "feature": null,
+    "tdwg_codel": "CPI-MA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 358
+  },
+  {
+    "id": 648,
+    "name": "Caribbean",
+    "feature": null,
+    "tdwg_codel": "81",
+    "tdwg_level": 2,
+    "species_count": 33521,
+    "parent_id": 643
+  },
+  {
+    "id": 650,
+    "name": "Navassa I.",
+    "feature": null,
+    "tdwg_codel": "HAI-NI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 140
+  },
+  {
+    "id": 651,
+    "name": "Antigua-Barbuda",
+    "feature": null,
+    "tdwg_codel": "LEE-AB",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 158
+  },
+  {
+    "id": 653,
+    "name": "Aves I.",
+    "feature": null,
+    "tdwg_codel": "LEE-AV",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 158
+  },
+  {
+    "id": 654,
+    "name": "British Virgin Is.",
+    "feature": null,
+    "tdwg_codel": "LEE-BV",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 158
+  },
+  {
+    "id": 655,
+    "name": "Guadeloupe",
+    "feature": null,
+    "tdwg_codel": "LEE-GU",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 158
+  },
+  {
+    "id": 656,
+    "name": "Montserrat",
+    "feature": null,
+    "tdwg_codel": "LEE-MO",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 158
+  },
+  {
+    "id": 657,
+    "name": "Netherlands Leeward Is.",
+    "feature": null,
+    "tdwg_codel": "LEE-NL",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 158
+  },
+  {
+    "id": 658,
+    "name": "St. Kitts-Nevis",
+    "feature": null,
+    "tdwg_codel": "LEE-SK",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 158
+  },
+  {
+    "id": 659,
+    "name": "St. Martin-St. Barthelemy",
+    "feature": null,
+    "tdwg_codel": "LEE-SM",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 158
+  },
+  {
+    "id": 660,
+    "name": "Virgin Is.",
+    "feature": null,
+    "tdwg_codel": "LEE-VI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 158
+  },
+  {
+    "id": 661,
+    "name": "Bonaire",
+    "feature": null,
+    "tdwg_codel": "NLA-BO",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 194
+  },
+  {
+    "id": 625,
+    "name": "Guadalupe I.",
+    "feature": null,
+    "tdwg_codel": "MXI-GU",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 247
+  },
+  {
+    "id": 662,
+    "name": "Curaçao",
+    "feature": null,
+    "tdwg_codel": "NLA-CU",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 194
+  },
+  {
+    "id": 663,
+    "name": "Colombian Caribbean Is.",
+    "feature": null,
+    "tdwg_codel": "SWC-CC",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 179
+  },
+  {
+    "id": 664,
+    "name": "Honduran Caribbean Is.",
+    "feature": null,
+    "tdwg_codel": "SWC-HC",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 179
+  },
+  {
+    "id": 665,
+    "name": "Nicaraguan Caribbean Is.",
+    "feature": null,
+    "tdwg_codel": "SWC-NC",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 179
+  },
+  {
+    "id": 666,
+    "name": "Barbados",
+    "feature": null,
+    "tdwg_codel": "WIN-BA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 162
+  },
+  {
+    "id": 667,
+    "name": "Dominica",
+    "feature": null,
+    "tdwg_codel": "WIN-DO",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 162
+  },
+  {
+    "id": 668,
+    "name": "Grenada",
+    "feature": null,
+    "tdwg_codel": "WIN-GR",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 162
+  },
+  {
+    "id": 669,
+    "name": "Martinique",
+    "feature": null,
+    "tdwg_codel": "WIN-MA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 162
+  },
+  {
+    "id": 670,
+    "name": "St. Lucia",
+    "feature": null,
+    "tdwg_codel": "WIN-SL",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 162
+  },
+  {
+    "id": 3,
+    "name": "Namibia",
+    "feature": null,
+    "tdwg_codel": "NAM",
+    "tdwg_level": 3,
+    "species_count": 4210,
+    "parent_id": 421
+  },
+  {
+    "id": 232,
+    "name": "Kansas",
+    "feature": null,
+    "tdwg_codel": "KAN",
+    "tdwg_level": 3,
+    "species_count": 2115,
+    "parent_id": 602
+  },
+  {
+    "id": 637,
+    "name": "Oaxaca",
+    "feature": null,
+    "tdwg_codel": "MXS-OA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 88
+  },
+  {
+    "id": 638,
+    "name": "Campeche",
+    "feature": null,
+    "tdwg_codel": "MXT-CA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 159
+  },
+  {
+    "id": 639,
+    "name": "Chiapas",
+    "feature": null,
+    "tdwg_codel": "MXT-CI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 159
+  },
+  {
+    "id": 640,
+    "name": "Quintana Roo",
+    "feature": null,
+    "tdwg_codel": "MXT-QR",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 159
+  },
+  {
+    "id": 617,
+    "name": "Guanajuato",
+    "feature": null,
+    "tdwg_codel": "MXE-GU",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 148
+  },
+  {
+    "id": 641,
+    "name": "Tabasco",
+    "feature": null,
+    "tdwg_codel": "MXT-TB",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 159
+  },
+  {
+    "id": 652,
+    "name": "Anguilla",
+    "feature": null,
+    "tdwg_codel": "LEE-AG",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 158
+  },
+  {
+    "id": 615,
+    "name": "Chihuahua",
+    "feature": null,
+    "tdwg_codel": "MXE-CU",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 148
+  },
+  {
+    "id": 626,
+    "name": "Rocas Alijos",
+    "feature": null,
+    "tdwg_codel": "MXI-RA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 247
+  },
+  {
+    "id": 642,
+    "name": "Yucatán",
+    "feature": null,
+    "tdwg_codel": "MXT-YU",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 159
+  },
+  {
+    "id": 165,
+    "name": "Mexico Northwest",
+    "feature": null,
+    "tdwg_codel": "MXN",
+    "tdwg_level": 3,
+    "species_count": 7534,
+    "parent_id": 607
+  },
+  {
+    "id": 697,
+    "name": "Para",
+    "feature": null,
+    "tdwg_codel": "BZN-PA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 78
+  },
+  {
+    "id": 699,
+    "name": "Rondonia",
+    "feature": null,
+    "tdwg_codel": "BZN-RO",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 78
+  },
+  {
+    "id": 671,
+    "name": "St. Vincent",
+    "feature": null,
+    "tdwg_codel": "WIN-SV",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 162
+  },
+  {
+    "id": 672,
+    "name": "Northern South America",
+    "feature": null,
+    "tdwg_codel": "82",
+    "tdwg_level": 2,
+    "species_count": 26757,
+    "parent_id": 643
+  },
+  {
+    "id": 673,
+    "name": "Western South America",
+    "feature": null,
+    "tdwg_codel": "83",
+    "tdwg_level": 2,
+    "species_count": 64624,
+    "parent_id": 643
+  },
+  {
+    "id": 674,
+    "name": "Brazil",
+    "feature": null,
+    "tdwg_codel": "84",
+    "tdwg_level": 2,
+    "species_count": 50334,
+    "parent_id": 643
+  },
+  {
+    "id": 675,
+    "name": "Brasilia Distrito Federal",
+    "feature": null,
+    "tdwg_codel": "BZC-DF",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 81
+  },
+  {
+    "id": 676,
+    "name": "Goias",
+    "feature": null,
+    "tdwg_codel": "BZC-GO",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 81
+  },
+  {
+    "id": 677,
+    "name": "Mato Grosso do Sul",
+    "feature": null,
+    "tdwg_codel": "BZC-MS",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 81
+  },
+  {
+    "id": 678,
+    "name": "Mato Grosso",
+    "feature": null,
+    "tdwg_codel": "BZC-MT",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 81
+  },
+  {
+    "id": 679,
+    "name": "Alagoas",
+    "feature": null,
+    "tdwg_codel": "BZE-AL",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 79
+  },
+  {
+    "id": 680,
+    "name": "Bahia",
+    "feature": null,
+    "tdwg_codel": "BZE-BA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 79
+  },
+  {
+    "id": 681,
+    "name": "Ceara",
+    "feature": null,
+    "tdwg_codel": "BZE-CE",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 79
+  },
+  {
+    "id": 682,
+    "name": "Fernando de Noronha",
+    "feature": null,
+    "tdwg_codel": "BZE-FN",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 79
+  },
+  {
+    "id": 683,
+    "name": "Maranhao",
+    "feature": null,
+    "tdwg_codel": "BZE-MA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 79
+  },
+  {
+    "id": 684,
+    "name": "Paraiba",
+    "feature": null,
+    "tdwg_codel": "BZE-PB",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 79
+  },
+  {
+    "id": 685,
+    "name": "Pernambuco",
+    "feature": null,
+    "tdwg_codel": "BZE-PE",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 79
+  },
+  {
+    "id": 686,
+    "name": "Piaui",
+    "feature": null,
+    "tdwg_codel": "BZE-PI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 79
+  },
+  {
+    "id": 687,
+    "name": "Rio Grande do Norte",
+    "feature": null,
+    "tdwg_codel": "BZE-RN",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 79
+  },
+  {
+    "id": 689,
+    "name": "Espirito Santo",
+    "feature": null,
+    "tdwg_codel": "BZL-ES",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 80
+  },
+  {
+    "id": 690,
+    "name": "Minas Gerais",
+    "feature": null,
+    "tdwg_codel": "BZL-MG",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 80
+  },
+  {
+    "id": 691,
+    "name": "Rio de Janeiro",
+    "feature": null,
+    "tdwg_codel": "BZL-RJ",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 80
+  },
+  {
+    "id": 692,
+    "name": "Sao Paulo",
+    "feature": null,
+    "tdwg_codel": "BZL-SP",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 80
+  },
+  {
+    "id": 693,
+    "name": "Trindade",
+    "feature": null,
+    "tdwg_codel": "BZL-TR",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 80
+  },
+  {
+    "id": 694,
+    "name": "Acre",
+    "feature": null,
+    "tdwg_codel": "BZN-AC",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 78
+  },
+  {
+    "id": 695,
+    "name": "Amazonas",
+    "feature": null,
+    "tdwg_codel": "BZN-AM",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 78
+  },
+  {
+    "id": 700,
+    "name": "Tocantins",
+    "feature": null,
+    "tdwg_codel": "BZN-TO",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 78
+  },
+  {
+    "id": 701,
+    "name": "Parana",
+    "feature": null,
+    "tdwg_codel": "BZS-PR",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 138
+  },
+  {
+    "id": 702,
+    "name": "Rio Grande do Sul",
+    "feature": null,
+    "tdwg_codel": "BZS-RS",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 138
+  },
+  {
+    "id": 703,
+    "name": "Santa Catarina",
+    "feature": null,
+    "tdwg_codel": "BZS-SC",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 138
+  },
+  {
+    "id": 704,
+    "name": "Southern South America",
+    "feature": null,
+    "tdwg_codel": "85",
+    "tdwg_level": 2,
+    "species_count": 25849,
+    "parent_id": 643
+  },
+  {
+    "id": 705,
+    "name": "Buenos Aires",
+    "feature": null,
+    "tdwg_codel": "AGE-BA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 169
+  },
+  {
+    "id": 706,
+    "name": "Cordoba",
+    "feature": null,
+    "tdwg_codel": "AGE-CD",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 169
+  },
+  {
+    "id": 707,
+    "name": "Chaco",
+    "feature": null,
+    "tdwg_codel": "AGE-CH",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 169
+  },
+  {
+    "id": 708,
+    "name": "Corrientes",
+    "feature": null,
+    "tdwg_codel": "AGE-CN",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 169
+  },
+  {
+    "id": 710,
+    "name": "Entre Rios",
+    "feature": null,
+    "tdwg_codel": "AGE-ER",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 169
+  },
+  {
+    "id": 711,
+    "name": "Formosa",
+    "feature": null,
+    "tdwg_codel": "AGE-FO",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 169
+  },
+  {
+    "id": 712,
+    "name": "La Pampa",
+    "feature": null,
+    "tdwg_codel": "AGE-LP",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 169
+  },
+  {
+    "id": 713,
+    "name": "Misiones",
+    "feature": null,
+    "tdwg_codel": "AGE-MI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 169
+  },
+  {
+    "id": 714,
+    "name": "Santa Fe",
+    "feature": null,
+    "tdwg_codel": "AGE-SF",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 169
+  },
+  {
+    "id": 715,
+    "name": "Chubut",
+    "feature": null,
+    "tdwg_codel": "AGS-CB",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 264
+  },
+  {
+    "id": 716,
+    "name": "Neuquen",
+    "feature": null,
+    "tdwg_codel": "AGS-NE",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 264
+  },
+  {
+    "id": 717,
+    "name": "Rio Negro",
+    "feature": null,
+    "tdwg_codel": "AGS-RN",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 264
+  },
+  {
+    "id": 718,
+    "name": "Santa Cruz",
+    "feature": null,
+    "tdwg_codel": "AGS-SC",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 264
+  },
+  {
+    "id": 719,
+    "name": "Tierra del Fuego (Argentina)",
+    "feature": null,
+    "tdwg_codel": "AGS-TF",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 264
+  },
+  {
+    "id": 721,
+    "name": "Jujuy",
+    "feature": null,
+    "tdwg_codel": "AGW-JU",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 171
+  },
+  {
+    "id": 722,
+    "name": "La Rioja",
+    "feature": null,
+    "tdwg_codel": "AGW-LR",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 171
+  },
+  {
+    "id": 723,
+    "name": "Mendoza",
+    "feature": null,
+    "tdwg_codel": "AGW-ME",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 171
+  },
+  {
+    "id": 724,
+    "name": "Salta",
+    "feature": null,
+    "tdwg_codel": "AGW-SA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 171
+  },
+  {
+    "id": 725,
+    "name": "Santiago del Estero",
+    "feature": null,
+    "tdwg_codel": "AGW-SE",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 171
+  },
+  {
+    "id": 726,
+    "name": "San Juan",
+    "feature": null,
+    "tdwg_codel": "AGW-SJ",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 171
+  },
+  {
+    "id": 727,
+    "name": "San Luis",
+    "feature": null,
+    "tdwg_codel": "AGW-SL",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 171
+  },
+  {
+    "id": 728,
+    "name": "Tucuman",
+    "feature": null,
+    "tdwg_codel": "AGW-TU",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 171
+  },
+  {
+    "id": 729,
+    "name": "Biobio",
+    "feature": null,
+    "tdwg_codel": "CLC-BI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 223
+  },
+  {
+    "id": 730,
+    "name": "Coquimbo",
+    "feature": null,
+    "tdwg_codel": "CLC-CO",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 223
+  },
+  {
+    "id": 731,
+    "name": "La Araucania",
+    "feature": null,
+    "tdwg_codel": "CLC-LA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 223
+  },
+  {
+    "id": 156,
+    "name": "Guatemala",
+    "feature": null,
+    "tdwg_codel": "GUA",
+    "tdwg_level": 3,
+    "species_count": 8526,
+    "parent_id": 644
+  },
+  {
+    "id": 698,
+    "name": "Roraima",
+    "feature": null,
+    "tdwg_codel": "BZN-RM",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 78
+  },
+  {
+    "id": 696,
+    "name": "Amapa",
+    "feature": null,
+    "tdwg_codel": "BZN-AP",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 78
+  },
+  {
+    "id": 688,
+    "name": "Sergipe",
+    "feature": null,
+    "tdwg_codel": "BZE-SE",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 79
+  },
+  {
+    "id": 709,
+    "name": "Argentina Distrito Federal",
+    "feature": null,
+    "tdwg_codel": "AGE-DF",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 169
+  },
+  {
+    "id": 720,
+    "name": "Catamarca",
+    "feature": null,
+    "tdwg_codel": "AGW-CA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 171
+  },
+  {
+    "id": 84,
+    "name": "El Salvador",
+    "feature": null,
+    "tdwg_codel": "ELS",
+    "tdwg_level": 3,
+    "species_count": 3825,
+    "parent_id": 644
+  },
+  {
+    "id": 744,
+    "name": "Bouvet I.",
+    "feature": null,
+    "tdwg_codel": "BOU",
+    "tdwg_level": 3,
+    "species_count": 0,
+    "parent_id": 743
+  },
+  {
+    "id": 745,
+    "name": "Antarctic Continent",
+    "feature": null,
+    "tdwg_codel": "91",
+    "tdwg_level": 2,
+    "species_count": 1,
+    "parent_id": 742
+  },
+  {
+    "id": 87,
+    "name": "Honduras",
+    "feature": null,
+    "tdwg_codel": "HON",
+    "tdwg_level": 3,
+    "species_count": 6918,
+    "parent_id": 644
+  },
+  {
+    "id": 8,
+    "name": "Eritrea",
+    "feature": null,
+    "tdwg_codel": "ERI",
+    "tdwg_level": 3,
+    "species_count": 2177,
+    "parent_id": 418
+  },
+  {
+    "id": 25,
+    "name": "Botswana",
+    "feature": null,
+    "tdwg_codel": "BOT",
+    "tdwg_level": 3,
+    "species_count": 2807,
+    "parent_id": 421
+  },
+  {
+    "id": 6,
+    "name": "Djibouti",
+    "feature": null,
+    "tdwg_codel": "DJI",
+    "tdwg_level": 3,
+    "species_count": 882,
+    "parent_id": 418
+  },
+  {
+    "id": 15,
+    "name": "Niger",
+    "feature": null,
+    "tdwg_codel": "NGR",
+    "tdwg_level": 3,
+    "species_count": 1226,
+    "parent_id": 412
+  },
+  {
+    "id": 258,
+    "name": "Wisconsin",
+    "feature": null,
+    "tdwg_codel": "WIS",
+    "tdwg_level": 3,
+    "species_count": 2283,
+    "parent_id": 602
+  },
+  {
+    "id": 240,
+    "name": "Ontario",
+    "feature": null,
+    "tdwg_codel": "ONT",
+    "tdwg_level": 3,
+    "species_count": 2938,
+    "parent_id": 598
+  },
+  {
+    "id": 234,
+    "name": "Michigan",
+    "feature": null,
+    "tdwg_codel": "MIC",
+    "tdwg_level": 3,
+    "species_count": 2648,
+    "parent_id": 603
+  },
+  {
+    "id": 231,
+    "name": "Iowa",
+    "feature": null,
+    "tdwg_codel": "IOW",
+    "tdwg_level": 3,
+    "species_count": 1946,
+    "parent_id": 602
+  },
+  {
+    "id": 13,
+    "name": "Mali",
+    "feature": null,
+    "tdwg_codel": "MLI",
+    "tdwg_level": 3,
+    "species_count": 2081,
+    "parent_id": 412
+  },
+  {
+    "id": 12,
+    "name": "Kenya",
+    "feature": null,
+    "tdwg_codel": "KEN",
+    "tdwg_level": 3,
+    "species_count": 7532,
+    "parent_id": 419
+  },
+  {
+    "id": 34,
+    "name": "Ghana",
+    "feature": null,
+    "tdwg_codel": "GHA",
+    "tdwg_level": 3,
+    "species_count": 3515,
+    "parent_id": 412
+  },
+  {
+    "id": 33,
+    "name": "Gambia",
+    "feature": null,
+    "tdwg_codel": "GAM",
+    "tdwg_level": 3,
+    "species_count": 1038,
+    "parent_id": 412
+  },
+  {
+    "id": 5,
+    "name": "Chad",
+    "feature": null,
+    "tdwg_codel": "CHA",
+    "tdwg_level": 3,
+    "species_count": 2505,
+    "parent_id": 418
+  },
+  {
+    "id": 30,
+    "name": "Burkina",
+    "feature": null,
+    "tdwg_codel": "BKN",
+    "tdwg_level": 3,
+    "species_count": 2050,
+    "parent_id": 412
+  },
+  {
+    "id": 732,
+    "name": "Maule",
+    "feature": null,
+    "tdwg_codel": "CLC-MA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 223
+  },
+  {
+    "id": 735,
+    "name": "Valparaiso",
+    "feature": null,
+    "tdwg_codel": "CLC-VA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 223
+  },
+  {
+    "id": 733,
+    "name": "O'Higgins",
+    "feature": null,
+    "tdwg_codel": "CLC-OH",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 223
+  },
+  {
+    "id": 734,
+    "name": "Santiago",
+    "feature": null,
+    "tdwg_codel": "CLC-SA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 223
+  },
+  {
+    "id": 736,
+    "name": "Antofagasta",
+    "feature": null,
+    "tdwg_codel": "CLN-AN",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 246
+  },
+  {
+    "id": 737,
+    "name": "Atacama",
+    "feature": null,
+    "tdwg_codel": "CLN-AT",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 246
+  },
+  {
+    "id": 738,
+    "name": "Tarapaca",
+    "feature": null,
+    "tdwg_codel": "CLN-TA",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 246
+  },
+  {
+    "id": 739,
+    "name": "Aisen",
+    "feature": null,
+    "tdwg_codel": "CLS-AI",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 333
+  },
+  {
+    "id": 740,
+    "name": "Los Lagos",
+    "feature": null,
+    "tdwg_codel": "CLS-LL",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 333
+  },
+  {
+    "id": 741,
+    "name": "Magellanes",
+    "feature": null,
+    "tdwg_codel": "CLS-MG",
+    "tdwg_level": 4,
+    "species_count": 0,
+    "parent_id": 333
+  },
+  {
+    "id": 742,
+    "name": "Antarctic",
+    "feature": null,
+    "tdwg_codel": "9",
+    "tdwg_level": 1,
+    "species_count": 883,
+    "parent_id": null
+  },
+  {
+    "id": 743,
+    "name": "Subantarctic Islands",
+    "feature": null,
+    "tdwg_codel": "90",
+    "tdwg_level": 2,
+    "species_count": 882,
+    "parent_id": 742
+  },
+  {
+    "id": 105,
+    "name": "Sri Lanka",
+    "feature": null,
+    "tdwg_codel": "SRL",
+    "tdwg_level": 3,
+    "species_count": 4430,
+    "parent_id": 505
+  },
+  {
+    "id": 116,
+    "name": "Sumatera",
+    "feature": null,
+    "tdwg_codel": "SUM",
+    "tdwg_level": 3,
+    "species_count": 7288,
+    "parent_id": 550
+  },
+  {
+    "id": 64,
+    "name": "Northern Territory",
+    "feature": null,
+    "tdwg_codel": "NTA",
+    "tdwg_level": 3,
+    "species_count": 4048,
+    "parent_id": 566
+  },
+  {
+    "id": 174,
+    "name": "Seychelles",
+    "feature": null,
+    "tdwg_codel": "SEY",
+    "tdwg_level": 3,
+    "species_count": 751,
+    "parent_id": 430
+  },
+  {
+    "id": 138,
+    "name": "Brazil South",
+    "feature": null,
+    "tdwg_codel": "BZS",
+    "tdwg_level": 3,
+    "species_count": 9214,
+    "parent_id": 674
+  },
+  {
+    "id": 169,
+    "name": "Argentina Northeast",
+    "feature": null,
+    "tdwg_codel": "AGE",
+    "tdwg_level": 3,
+    "species_count": 6365,
+    "parent_id": 704
+  },
+  {
+    "id": 141,
+    "name": "Peru",
+    "feature": null,
+    "tdwg_codel": "PER",
+    "tdwg_level": 3,
+    "species_count": 20744,
+    "parent_id": 673
+  },
+  {
+    "id": 82,
+    "name": "Colombia",
+    "feature": null,
+    "tdwg_codel": "CLM",
+    "tdwg_level": 3,
+    "species_count": 24639,
+    "parent_id": 673
+  },
+  {
+    "id": 65,
+    "name": "Panamá",
+    "feature": null,
+    "tdwg_codel": "PAN",
+    "tdwg_level": 3,
+    "species_count": 9889,
+    "parent_id": 644
+  },
+  {
+    "id": 142,
+    "name": "Venezuela",
+    "feature": null,
+    "tdwg_codel": "VEN",
+    "tdwg_level": 3,
+    "species_count": 16883,
+    "parent_id": 672
+  },
+  {
+    "id": 249,
+    "name": "China North-Central",
+    "feature": null,
+    "tdwg_codel": "CHN",
+    "tdwg_level": 3,
+    "species_count": 5995,
+    "parent_id": 464
+  },
+  {
+    "id": 263,
+    "name": "Marshall Is.",
+    "feature": null,
+    "tdwg_codel": "MRS",
+    "tdwg_level": 3,
+    "species_count": 171,
+    "parent_id": 586
+  },
+  {
+    "id": 265,
+    "name": "Marquesas",
+    "feature": null,
+    "tdwg_codel": "MRQ",
+    "tdwg_level": 3,
+    "species_count": 475,
+    "parent_id": 583
+  },
+  {
+    "id": 136,
+    "name": "Swaziland",
+    "feature": null,
+    "tdwg_codel": "SWZ",
+    "tdwg_level": 3,
+    "species_count": 2974,
+    "parent_id": 421
+  },
+  {
+    "id": 92,
+    "name": "Taiwan",
+    "feature": null,
+    "tdwg_codel": "TAI",
+    "tdwg_level": 3,
+    "species_count": 5028,
+    "parent_id": 497
+  },
+  {
+    "id": 77,
+    "name": "Bolivia",
+    "feature": null,
+    "tdwg_codel": "BOL",
+    "tdwg_level": 3,
+    "species_count": 15242,
+    "parent_id": 673
+  },
+  {
+    "id": 17,
+    "name": "Pakistan",
+    "feature": null,
+    "tdwg_codel": "PAK",
+    "tdwg_level": 3,
+    "species_count": 4816,
+    "parent_id": 505
+  },
+  {
+    "id": 203,
+    "name": "Nansei-shoto",
+    "feature": null,
+    "tdwg_codel": "NNS",
+    "tdwg_level": 3,
+    "species_count": 1915,
+    "parent_id": 497
+  },
+  {
+    "id": 262,
+    "name": "Nebraska",
+    "feature": null,
+    "tdwg_codel": "NEB",
+    "tdwg_level": 3,
+    "species_count": 1789,
+    "parent_id": 602
+  },
+  {
+    "id": 211,
+    "name": "California",
+    "feature": null,
+    "tdwg_codel": "CAL",
+    "tdwg_level": 3,
+    "species_count": 7884,
+    "parent_id": 604
+  },
+  {
+    "id": 83,
+    "name": "Ecuador",
+    "feature": null,
+    "tdwg_codel": "ECU",
+    "tdwg_level": 3,
+    "species_count": 17900,
+    "parent_id": 673
+  },
+  {
+    "id": 201,
+    "name": "Tibet",
+    "feature": null,
+    "tdwg_codel": "CHT",
+    "tdwg_level": 3,
+    "species_count": 7285,
+    "parent_id": 464
+  },
+  {
+    "id": 48,
+    "name": "East Himalaya",
+    "feature": null,
+    "tdwg_codel": "EHM",
+    "tdwg_level": 3,
+    "species_count": 8081,
+    "parent_id": 505
+  },
+  {
+    "id": 168,
+    "name": "Texas",
+    "feature": null,
+    "tdwg_codel": "TEX",
+    "tdwg_level": 3,
+    "species_count": 5599,
+    "parent_id": 605
+  },
+  {
+    "id": 230,
+    "name": "Indiana",
+    "feature": null,
+    "tdwg_codel": "INI",
+    "tdwg_level": 3,
+    "species_count": 2471,
+    "parent_id": 603
+  },
+  {
+    "id": 366,
+    "name": "Howland-Baker Is.",
+    "feature": null,
+    "tdwg_codel": "HBI",
+    "tdwg_level": 3,
+    "species_count": 16,
+    "parent_id": 577
+  },
+  {
+    "id": 367,
+    "name": "Antarctica",
+    "feature": null,
+    "tdwg_codel": "ANT",
+    "tdwg_level": 3,
+    "species_count": 4,
+    "parent_id": 745
+  },
+  {
+    "id": 67,
+    "name": "Queensland",
+    "feature": null,
+    "tdwg_codel": "QLD",
+    "tdwg_level": 3,
+    "species_count": 8755,
+    "parent_id": 566
+  },
+  {
+    "id": 47,
+    "name": "Congo",
+    "feature": null,
+    "tdwg_codel": "CON",
+    "tdwg_level": 3,
+    "species_count": 4208,
+    "parent_id": 413
+  },
+  {
+    "id": 39,
+    "name": "Andaman Is.",
+    "feature": null,
+    "tdwg_codel": "AND",
+    "tdwg_level": 3,
+    "species_count": 2207,
+    "parent_id": 545
+  },
+  {
+    "id": 149,
+    "name": "Tennessee",
+    "feature": null,
+    "tdwg_codel": "TEN",
+    "tdwg_level": 3,
+    "species_count": 3217,
+    "parent_id": 606
+  },
+  {
+    "id": 225,
+    "name": "Oklahoma",
+    "feature": null,
+    "tdwg_codel": "OKL",
+    "tdwg_level": 3,
+    "species_count": 2610,
+    "parent_id": 602
+  },
+  {
+    "id": 239,
+    "name": "Ohio",
+    "feature": null,
+    "tdwg_codel": "OHI",
+    "tdwg_level": 3,
+    "species_count": 2618,
+    "parent_id": 603
+  },
+  {
+    "id": 235,
+    "name": "Missouri",
+    "feature": null,
+    "tdwg_codel": "MSO",
+    "tdwg_level": 3,
+    "species_count": 2668,
+    "parent_id": 602
+  },
+  {
+    "id": 206,
+    "name": "Mississippi",
+    "feature": null,
+    "tdwg_codel": "MSI",
+    "tdwg_level": 3,
+    "species_count": 2693,
+    "parent_id": 606
+  },
+  {
+    "id": 148,
+    "name": "Mexico Northeast",
+    "feature": null,
+    "tdwg_codel": "MXE",
+    "tdwg_level": 3,
+    "species_count": 11954,
+    "parent_id": 607
+  },
+  {
+    "id": 147,
+    "name": "Mexico Gulf",
+    "feature": null,
+    "tdwg_codel": "MXG",
+    "tdwg_level": 3,
+    "species_count": 8030,
+    "parent_id": 607
+  },
+  {
+    "id": 130,
+    "name": "Mexico Central",
+    "feature": null,
+    "tdwg_codel": "MXC",
+    "tdwg_level": 3,
+    "species_count": 7700,
+    "parent_id": 607
+  },
+  {
+    "id": 205,
+    "name": "Louisiana",
+    "feature": null,
+    "tdwg_codel": "LOU",
+    "tdwg_level": 3,
+    "species_count": 2939,
+    "parent_id": 606
+  },
+  {
+    "id": 146,
+    "name": "Kentucky",
+    "feature": null,
+    "tdwg_codel": "KTY",
+    "tdwg_level": 3,
+    "species_count": 2924,
+    "parent_id": 606
+  },
+  {
+    "id": 85,
+    "name": "Florida",
+    "feature": null,
+    "tdwg_codel": "FLA",
+    "tdwg_level": 3,
+    "species_count": 4227,
+    "parent_id": 606
+  },
+  {
+    "id": 227,
+    "name": "Arkansas",
+    "feature": null,
+    "tdwg_codel": "ARK",
+    "tdwg_level": 3,
+    "species_count": 2590,
+    "parent_id": 606
+  },
+  {
+    "id": 144,
+    "name": "Alabama",
+    "feature": null,
+    "tdwg_codel": "ALA",
+    "tdwg_level": 3,
+    "species_count": 4205,
+    "parent_id": 606
+  },
+  {
+    "id": 183,
+    "name": "Hawaii",
+    "feature": null,
+    "tdwg_codel": "HAW",
+    "tdwg_level": 3,
+    "species_count": 2323,
+    "parent_id": 591
+  },
+  {
+    "id": 224,
+    "name": "Virginia",
+    "feature": null,
+    "tdwg_codel": "VRG",
+    "tdwg_level": 3,
+    "species_count": 3257,
+    "parent_id": 606
+  },
+  {
+    "id": 192,
+    "name": "South Carolina",
+    "feature": null,
+    "tdwg_codel": "SCA",
+    "tdwg_level": 3,
+    "species_count": 3124,
+    "parent_id": 606
+  },
+  {
+    "id": 241,
+    "name": "Pennsylvania",
+    "feature": null,
+    "tdwg_codel": "PEN",
+    "tdwg_level": 3,
+    "species_count": 3033,
+    "parent_id": 603
+  },
+  {
+    "id": 238,
+    "name": "North Carolina",
+    "feature": null,
+    "tdwg_codel": "NCA",
+    "tdwg_level": 3,
+    "species_count": 3547,
+    "parent_id": 606
+  },
+  {
+    "id": 237,
+    "name": "New York",
+    "feature": null,
+    "tdwg_codel": "NWY",
+    "tdwg_level": 3,
+    "species_count": 4104,
+    "parent_id": 603
+  },
+  {
+    "id": 236,
+    "name": "New Jersey",
+    "feature": null,
+    "tdwg_codel": "NWJ",
+    "tdwg_level": 3,
+    "species_count": 2640,
+    "parent_id": 603
+  },
+  {
+    "id": 233,
+    "name": "Maryland",
+    "feature": null,
+    "tdwg_codel": "MRY",
+    "tdwg_level": 3,
+    "species_count": 2621,
+    "parent_id": 606
+  },
+  {
+    "id": 72,
+    "name": "Vietnam",
+    "feature": null,
+    "tdwg_codel": "VIE",
+    "tdwg_level": 3,
+    "species_count": 11906,
+    "parent_id": 545
+  },
+  {
+    "id": 71,
+    "name": "Thailand",
+    "feature": null,
+    "tdwg_codel": "THA",
+    "tdwg_level": 3,
+    "species_count": 11055,
+    "parent_id": 545
+  },
+  {
+    "id": 59,
+    "name": "Myanmar",
+    "feature": null,
+    "tdwg_codel": "MYA",
+    "tdwg_level": 3,
+    "species_count": 9833,
+    "parent_id": 545
+  },
+  {
+    "id": 58,
+    "name": "Malaya",
+    "feature": null,
+    "tdwg_codel": "MLY",
+    "tdwg_level": 3,
+    "species_count": 9437,
+    "parent_id": 550
+  },
+  {
+    "id": 54,
+    "name": "Laos",
+    "feature": null,
+    "tdwg_codel": "LAO",
+    "tdwg_level": 3,
+    "species_count": 5105,
+    "parent_id": 545
+  },
+  {
+    "id": 91,
+    "name": "Hainan",
+    "feature": null,
+    "tdwg_codel": "CHH",
+    "tdwg_level": 3,
+    "species_count": 3887,
+    "parent_id": 464
+  },
+  {
+    "id": 46,
+    "name": "China Southeast",
+    "feature": null,
+    "tdwg_codel": "CHS",
+    "tdwg_level": 3,
+    "species_count": 12165,
+    "parent_id": 464
+  },
+  {
+    "id": 45,
+    "name": "China South-Central",
+    "feature": null,
+    "tdwg_codel": "CHC",
+    "tdwg_level": 3,
+    "species_count": 20851,
+    "parent_id": 464
+  },
+  {
+    "id": 43,
+    "name": "Cambodia",
+    "feature": null,
+    "tdwg_codel": "CBD",
+    "tdwg_level": 3,
+    "species_count": 3566,
+    "parent_id": 545
+  },
+  {
+    "id": 185,
+    "name": "Borneo",
+    "feature": null,
+    "tdwg_codel": "BOR",
+    "tdwg_level": 3,
+    "species_count": 11572,
+    "parent_id": 550
+  },
+  {
+    "id": 40,
+    "name": "Assam",
+    "feature": null,
+    "tdwg_codel": "ASS",
+    "tdwg_level": 3,
+    "species_count": 5734,
+    "parent_id": 505
+  },
+  {
+    "id": 62,
+    "name": "Nicaragua",
+    "feature": null,
+    "tdwg_codel": "NIC",
+    "tdwg_level": 3,
+    "species_count": 5971,
+    "parent_id": 644
+  },
+  {
+    "id": 88,
+    "name": "Mexico Southwest",
+    "feature": null,
+    "tdwg_codel": "MXS",
+    "tdwg_level": 3,
+    "species_count": 14618,
+    "parent_id": 607
+  },
+  {
+    "id": 159,
+    "name": "Mexico Southeast",
+    "feature": null,
+    "tdwg_codel": "MXT",
+    "tdwg_level": 3,
+    "species_count": 9425,
+    "parent_id": 607
+  },
+  {
+    "id": 50,
+    "name": "Gabon",
+    "feature": null,
+    "tdwg_codel": "GAB",
+    "tdwg_level": 3,
+    "species_count": 5218,
+    "parent_id": 413
+  },
+  {
+    "id": 176,
+    "name": "Fiji",
+    "feature": null,
+    "tdwg_codel": "FIJ",
+    "tdwg_level": 3,
+    "species_count": 2270,
+    "parent_id": 577
+  },
+  {
+    "id": 110,
+    "name": "Lesser Sunda Is.",
+    "feature": null,
+    "tdwg_codel": "LSI",
+    "tdwg_level": 3,
+    "species_count": 3327,
+    "parent_id": 550
+  },
+  {
+    "id": 220,
+    "name": "Samoa",
+    "feature": null,
+    "tdwg_codel": "SAM",
+    "tdwg_level": 3,
+    "species_count": 1155,
+    "parent_id": 577
+  },
+  {
+    "id": 80,
+    "name": "Brazil Southeast",
+    "feature": null,
+    "tdwg_codel": "BZL",
+    "tdwg_level": 3,
+    "species_count": 18353,
+    "parent_id": 674
+  },
+  {
+    "id": 81,
+    "name": "Brazil West-Central",
+    "feature": null,
+    "tdwg_codel": "BZC",
+    "tdwg_level": 3,
+    "species_count": 10079,
+    "parent_id": 674
+  },
+  {
+    "id": 49,
+    "name": "Equatorial Guinea",
+    "feature": null,
+    "tdwg_codel": "EQG",
+    "tdwg_level": 3,
+    "species_count": 1518,
+    "parent_id": 413
+  },
+  {
+    "id": 44,
+    "name": "Caprivi Strip",
+    "feature": null,
+    "tdwg_codel": "CPV",
+    "tdwg_level": 3,
+    "species_count": 633,
+    "parent_id": 421
+  },
+  {
+    "id": 163,
+    "name": "Cook Is.",
+    "feature": null,
+    "tdwg_codel": "COO",
+    "tdwg_level": 3,
+    "species_count": 692,
+    "parent_id": 583
+  },
+  {
+    "id": 179,
+    "name": "Southwest Caribbean",
+    "feature": null,
+    "tdwg_codel": "SWC",
+    "tdwg_level": 3,
+    "species_count": 363,
+    "parent_id": 648
+  },
+  {
+    "id": 161,
+    "name": "Suriname",
+    "feature": null,
+    "tdwg_codel": "SUR",
+    "tdwg_level": 3,
+    "species_count": 4652,
+    "parent_id": 672
+  },
+  {
+    "id": 209,
+    "name": "Norfolk Is.",
+    "feature": null,
+    "tdwg_codel": "NFK",
+    "tdwg_level": 3,
+    "species_count": 771,
+    "parent_id": 566
+  },
+  {
+    "id": 195,
+    "name": "Maluku",
+    "feature": null,
+    "tdwg_codel": "MOL",
+    "tdwg_level": 3,
+    "species_count": 3169,
+    "parent_id": 550
+  },
+  {
+    "id": 221,
+    "name": "Wallis-Futuna Is.",
+    "feature": null,
+    "tdwg_codel": "WAL",
+    "tdwg_level": 3,
+    "species_count": 435,
+    "parent_id": 577
+  },
+  {
+    "id": 104,
+    "name": "Socotra",
+    "feature": null,
+    "tdwg_codel": "SOC",
+    "tdwg_level": 3,
+    "species_count": 886,
+    "parent_id": 418
+  },
+  {
+    "id": 222,
+    "name": "Lesotho",
+    "feature": null,
+    "tdwg_codel": "LES",
+    "tdwg_level": 3,
+    "species_count": 1976,
+    "parent_id": 421
+  },
+  {
+    "id": 245,
+    "name": "Tubuai Is.",
+    "feature": null,
+    "tdwg_codel": "TUB",
+    "tdwg_level": 3,
+    "species_count": 369,
+    "parent_id": 583
+  },
+  {
+    "id": 251,
+    "name": "Tuvalu",
+    "feature": null,
+    "tdwg_codel": "TUV",
+    "tdwg_level": 3,
+    "species_count": 88,
+    "parent_id": 577
+  },
+  {
+    "id": 37,
+    "name": "Senegal",
+    "feature": null,
+    "tdwg_codel": "SEN",
+    "tdwg_level": 3,
+    "species_count": 2454,
+    "parent_id": 412
+  },
+  {
+    "id": 86,
+    "name": "French Guiana",
+    "feature": null,
+    "tdwg_codel": "FRG",
+    "tdwg_level": 3,
+    "species_count": 5030,
+    "parent_id": 672
+  },
+  {
+    "id": 173,
+    "name": "Réunion",
+    "feature": null,
+    "tdwg_codel": "REU",
+    "tdwg_level": 3,
+    "species_count": 1757,
+    "parent_id": 430
+  },
+  {
+    "id": 350,
+    "name": "Tristan da Cunha",
+    "feature": null,
+    "tdwg_codel": "TDC",
+    "tdwg_level": 3,
+    "species_count": 249,
+    "parent_id": 743
+  },
+  {
+    "id": 41,
+    "name": "Bangladesh",
+    "feature": null,
+    "tdwg_codel": "BAN",
+    "tdwg_level": 3,
+    "species_count": 5047,
+    "parent_id": 505
+  },
+  {
+    "id": 200,
+    "name": "Tonga",
+    "feature": null,
+    "tdwg_codel": "TON",
+    "tdwg_level": 3,
+    "species_count": 781,
+    "parent_id": 577
+  },
+  {
+    "id": 334,
+    "name": "Juan Fernández Is.",
+    "feature": null,
+    "tdwg_codel": "JNF",
+    "tdwg_level": 3,
+    "species_count": 483,
+    "parent_id": 704
+  },
+  {
+    "id": 213,
+    "name": "Cocos (Keeling) Is.",
+    "feature": null,
+    "tdwg_codel": "CKI",
+    "tdwg_level": 3,
+    "species_count": 144,
+    "parent_id": 550
+  },
+  {
+    "id": 20,
+    "name": "Somalia",
+    "feature": null,
+    "tdwg_codel": "SOM",
+    "tdwg_level": 3,
+    "species_count": 3424,
+    "parent_id": 418
+  },
+  {
+    "id": 193,
+    "name": "Ascension",
+    "feature": null,
+    "tdwg_codel": "ASC",
+    "tdwg_level": 3,
+    "species_count": 219,
+    "parent_id": 429
+  },
+  {
+    "id": 189,
+    "name": "Cabinda",
+    "feature": null,
+    "tdwg_codel": "CAB",
+    "tdwg_level": 3,
+    "species_count": 970,
+    "parent_id": 413
+  },
+  {
+    "id": 172,
+    "name": "Rodrigues",
+    "feature": null,
+    "tdwg_codel": "ROD",
+    "tdwg_level": 3,
+    "species_count": 437,
+    "parent_id": 430
+  },
+  {
+    "id": 157,
+    "name": "Guyana",
+    "feature": null,
+    "tdwg_codel": "GUY",
+    "tdwg_level": 3,
+    "species_count": 6599,
+    "parent_id": 672
+  },
+  {
+    "id": 199,
+    "name": "Niue",
+    "feature": null,
+    "tdwg_codel": "NUE",
+    "tdwg_level": 3,
+    "species_count": 452,
+    "parent_id": 577
+  },
+  {
+    "id": 340,
+    "name": "Phoenix Is.",
+    "feature": null,
+    "tdwg_codel": "PHX",
+    "tdwg_level": 3,
+    "species_count": 77,
+    "parent_id": 577
+  },
+  {
+    "id": 339,
+    "name": "Line Is.",
+    "feature": null,
+    "tdwg_codel": "LIN",
+    "tdwg_level": 3,
+    "species_count": 112,
+    "parent_id": 583
+  },
+  {
+    "id": 79,
+    "name": "Brazil Northeast",
+    "feature": null,
+    "tdwg_codel": "BZE",
+    "tdwg_level": 3,
+    "species_count": 11393,
+    "parent_id": 674
+  },
+  {
+    "id": 78,
+    "name": "Brazil North",
+    "feature": null,
+    "tdwg_codel": "BZN",
+    "tdwg_level": 3,
+    "species_count": 13380,
+    "parent_id": 674
+  },
+  {
+    "id": 342,
+    "name": "Easter Is.",
+    "feature": null,
+    "tdwg_codel": "EAS",
+    "tdwg_level": 3,
+    "species_count": 192,
+    "parent_id": 583
+  },
+  {
+    "id": 219,
+    "name": "Chagos Archipelago",
+    "feature": null,
+    "tdwg_codel": "CGS",
+    "tdwg_level": 3,
+    "species_count": 235,
+    "parent_id": 430
+  },
+  {
+    "id": 152,
+    "name": "Cuba",
+    "feature": null,
+    "tdwg_codel": "CUB",
+    "tdwg_level": 3,
+    "species_count": 7096,
+    "parent_id": 648
+  },
+  {
+    "id": 162,
+    "name": "Windward Is.",
+    "feature": null,
+    "tdwg_codel": "WIN",
+    "tdwg_level": 3,
+    "species_count": 2717,
+    "parent_id": 648
+  },
+  {
+    "id": 143,
+    "name": "Trinidad-Tobago",
+    "feature": null,
+    "tdwg_codel": "TRT",
+    "tdwg_level": 3,
+    "species_count": 3684,
+    "parent_id": 648
+  },
+  {
+    "id": 158,
+    "name": "Leeward Is.",
+    "feature": null,
+    "tdwg_codel": "LEE",
+    "tdwg_level": 3,
+    "species_count": 2858,
+    "parent_id": 648
+  },
+  {
+    "id": 140,
+    "name": "Haiti",
+    "feature": null,
+    "tdwg_codel": "HAI",
+    "tdwg_level": 3,
+    "species_count": 4348,
+    "parent_id": 648
+  },
+  {
+    "id": 4,
+    "name": "Angola",
+    "feature": null,
+    "tdwg_codel": "ANG",
+    "tdwg_level": 3,
+    "species_count": 6830,
+    "parent_id": 420
+  },
+  {
+    "id": 122,
+    "name": "Azores",
+    "feature": null,
+    "tdwg_codel": "AZO",
+    "tdwg_level": 3,
+    "species_count": 1002,
+    "parent_id": 411
+  },
+  {
+    "id": 212,
+    "name": "Aldabra",
+    "feature": null,
+    "tdwg_codel": "ALD",
+    "tdwg_level": 3,
+    "species_count": 254,
+    "parent_id": 430
+  },
+  {
+    "id": 353,
+    "name": "Nunavut",
+    "feature": null,
+    "tdwg_codel": "NUN",
+    "tdwg_level": 3,
+    "species_count": 634,
+    "parent_id": 596
+  },
+  {
+    "id": 150,
+    "name": "Christmas I.",
+    "feature": null,
+    "tdwg_codel": "XMS",
+    "tdwg_level": 3,
+    "species_count": 408,
+    "parent_id": 550
+  },
+  {
+    "id": 348,
+    "name": "Tuamotu",
+    "feature": null,
+    "tdwg_codel": "TUA",
+    "tdwg_level": 3,
+    "species_count": 199,
+    "parent_id": 583
+  },
+  {
+    "id": 198,
+    "name": "Gilbert Is.",
+    "feature": null,
+    "tdwg_codel": "GIL",
+    "tdwg_level": 3,
+    "species_count": 249,
+    "parent_id": 577
+  },
+  {
+    "id": 217,
+    "name": "Laccadive Is.",
+    "feature": null,
+    "tdwg_codel": "LDV",
+    "tdwg_level": 3,
+    "species_count": 258,
+    "parent_id": 505
+  },
+  {
+    "id": 250,
+    "name": "Ogasawara-shoto",
+    "feature": null,
+    "tdwg_codel": "OGA",
+    "tdwg_level": 3,
+    "species_count": 493,
+    "parent_id": 497
+  },
+  {
+    "id": 102,
+    "name": "Comoros",
+    "feature": null,
+    "tdwg_codel": "COM",
+    "tdwg_level": 3,
+    "species_count": 939,
+    "parent_id": 430
+  },
+  {
+    "id": 197,
+    "name": "South China Sea",
+    "feature": null,
+    "tdwg_codel": "SCS",
+    "tdwg_level": 3,
+    "species_count": 320,
+    "parent_id": 545
+  },
+  {
+    "id": 181,
+    "name": "Nauru",
+    "feature": null,
+    "tdwg_codel": "NRU",
+    "tdwg_level": 3,
+    "species_count": 192,
+    "parent_id": 577
+  },
+  {
+    "id": 216,
+    "name": "Mozambique Channel I",
+    "feature": null,
+    "tdwg_codel": "MCI",
+    "tdwg_level": 3,
+    "species_count": 95,
+    "parent_id": 430
+  },
+  {
+    "id": 218,
+    "name": "Maldives",
+    "feature": null,
+    "tdwg_codel": "MDV",
+    "tdwg_level": 3,
+    "species_count": 268,
+    "parent_id": 505
+  },
+  {
+    "id": 247,
+    "name": "Mexican Pacific Is.",
+    "feature": null,
+    "tdwg_codel": "MXI",
+    "tdwg_level": 3,
+    "species_count": 363,
+    "parent_id": 607
+  },
+  {
+    "id": 349,
+    "name": "Kazan-retto",
+    "feature": null,
+    "tdwg_codel": "KZN",
+    "tdwg_level": 3,
+    "species_count": 270,
+    "parent_id": 497
+  },
+  {
+    "id": 178,
+    "name": "Galápagos",
+    "feature": null,
+    "tdwg_codel": "GAL",
+    "tdwg_level": 3,
+    "species_count": 967,
+    "parent_id": 673
+  },
+  {
+    "id": 248,
+    "name": "Tokelau-Manihiki",
+    "feature": null,
+    "tdwg_codel": "TOK",
+    "tdwg_level": 3,
+    "species_count": 144,
+    "parent_id": 577
+  },
+  {
+    "id": 207,
+    "name": "Caroline Is.",
+    "feature": null,
+    "tdwg_codel": "CRL",
+    "tdwg_level": 3,
+    "species_count": 1083,
+    "parent_id": 586
+  },
+  {
+    "id": 177,
+    "name": "Cayman Is.",
+    "feature": null,
+    "tdwg_codel": "CAY",
+    "tdwg_level": 3,
+    "species_count": 780,
+    "parent_id": 648
+  },
+  {
+    "id": 208,
+    "name": "Bismarck Archipelago",
+    "feature": null,
+    "tdwg_codel": "BIS",
+    "tdwg_level": 3,
+    "species_count": 1590,
+    "parent_id": 560
+  },
+  {
+    "id": 114,
+    "name": "Vanuatu",
+    "feature": null,
+    "tdwg_codel": "VAN",
+    "tdwg_level": 3,
+    "species_count": 1108,
+    "parent_id": 577
+  },
+  {
+    "id": 113,
+    "name": "Solomon Is.",
+    "feature": null,
+    "tdwg_codel": "SOL",
+    "tdwg_level": 3,
+    "species_count": 2389,
+    "parent_id": 560
+  },
+  {
+    "id": 204,
+    "name": "Aruba",
+    "feature": null,
+    "tdwg_codel": "ARU",
+    "tdwg_level": 3,
+    "species_count": 369,
+    "parent_id": 648
+  },
+  {
+    "id": 194,
+    "name": "Netherlands Antilles",
+    "feature": null,
+    "tdwg_codel": "NLA",
+    "tdwg_level": 3,
+    "species_count": 627,
+    "parent_id": 648
+  },
+  {
+    "id": 347,
+    "name": "Yukon",
+    "feature": null,
+    "tdwg_codel": "YUK",
+    "tdwg_level": 3,
+    "species_count": 1246,
+    "parent_id": 596
+  },
+  {
+    "id": 356,
+    "name": "Aleutian Is.",
+    "feature": null,
+    "tdwg_codel": "ALU",
+    "tdwg_level": 3,
+    "species_count": 416,
+    "parent_id": 596
+  },
+  {
+    "id": 112,
+    "name": "Santa Cruz Is.",
+    "feature": null,
+    "tdwg_codel": "SCZ",
+    "tdwg_level": 3,
+    "species_count": 257,
+    "parent_id": 577
+  },
+  {
+    "id": 329,
+    "name": "Northwest Territorie",
+    "feature": null,
+    "tdwg_codel": "NWT",
+    "tdwg_level": 3,
+    "species_count": 1112,
+    "parent_id": 596
+  },
+  {
+    "id": 187,
+    "name": "Society Is.",
+    "feature": null,
+    "tdwg_codel": "SCI",
+    "tdwg_level": 3,
+    "species_count": 1026,
+    "parent_id": 583
+  },
+  {
+    "id": 190,
+    "name": "Turks-Caicos Is.",
+    "feature": null,
+    "tdwg_codel": "TCI",
+    "tdwg_level": 3,
+    "species_count": 480,
+    "parent_id": 648
+  },
+  {
+    "id": 175,
+    "name": "Venezuelan Antilles",
+    "feature": null,
+    "tdwg_codel": "VNA",
+    "tdwg_level": 3,
+    "species_count": 1122,
+    "parent_id": 648
+  },
+  {
+    "id": 166,
+    "name": "Bahamas",
+    "feature": null,
+    "tdwg_codel": "BAH",
+    "tdwg_level": 3,
+    "species_count": 1432,
+    "parent_id": 648
+  },
+  {
+    "id": 89,
+    "name": "Puerto Rico",
+    "feature": null,
+    "tdwg_codel": "PUE",
+    "tdwg_level": 3,
+    "species_count": 3403,
+    "parent_id": 648
+  },
+  {
+    "id": 325,
+    "name": "Alaska",
+    "feature": null,
+    "tdwg_codel": "ASK",
+    "tdwg_level": 3,
+    "species_count": 1678,
+    "parent_id": 596
+  },
+  {
+    "id": 358,
+    "name": "Central American Pac",
+    "feature": null,
+    "tdwg_codel": "CPI",
+    "tdwg_level": 3,
+    "species_count": 255,
+    "parent_id": 644
+  },
+  {
+    "id": 154,
+    "name": "Belize",
+    "feature": null,
+    "tdwg_codel": "BLZ",
+    "tdwg_level": 3,
+    "species_count": 3725,
+    "parent_id": 644
+  },
+  {
+    "id": 182,
+    "name": "Bermuda",
+    "feature": null,
+    "tdwg_codel": "BER",
+    "tdwg_level": 3,
+    "species_count": 571,
+    "parent_id": 648
+  },
+  {
+    "id": 100,
+    "name": "Mauritius",
+    "feature": null,
+    "tdwg_codel": "MAU",
+    "tdwg_level": 3,
+    "species_count": 1863,
+    "parent_id": 430
+  },
+  {
+    "id": 103,
+    "name": "KwaZulu-Natal",
+    "feature": null,
+    "tdwg_codel": "NAT",
+    "tdwg_level": 3,
+    "species_count": 5961,
+    "parent_id": 421
+  },
+  {
+    "id": 106,
+    "name": "Togo",
+    "feature": null,
+    "tdwg_codel": "TOG",
+    "tdwg_level": 3,
+    "species_count": 2273,
+    "parent_id": 412
+  },
+  {
+    "id": 29,
+    "name": "Benin",
+    "feature": null,
+    "tdwg_codel": "BEN",
+    "tdwg_level": 3,
+    "species_count": 2714,
+    "parent_id": 412
+  },
+  {
+    "id": 180,
+    "name": "Marianas",
+    "feature": null,
+    "tdwg_codel": "MRN",
+    "tdwg_level": 3,
+    "species_count": 660,
+    "parent_id": 586
+  },
+  {
+    "id": 101,
+    "name": "Cape Verde",
+    "feature": null,
+    "tdwg_codel": "CVI",
+    "tdwg_level": 3,
+    "species_count": 801,
+    "parent_id": 411
+  },
+  {
+    "id": 295,
+    "name": "Tunisia",
+    "feature": null,
+    "tdwg_codel": "TUN",
+    "tdwg_level": 3,
+    "species_count": 2878,
+    "parent_id": 408
+  },
+  {
+    "id": 90,
+    "name": "Free State",
+    "feature": null,
+    "tdwg_codel": "OFS",
+    "tdwg_level": 3,
+    "species_count": 3218,
+    "parent_id": 421
+  },
+  {
+    "id": 137,
+    "name": "Algeria",
+    "feature": null,
+    "tdwg_codel": "ALG",
+    "tdwg_level": 3,
+    "species_count": 4350,
+    "parent_id": 408
+  },
+  {
+    "id": 111,
+    "name": "New Caledonia",
+    "feature": null,
+    "tdwg_codel": "NWC",
+    "tdwg_level": 3,
+    "species_count": 3590,
+    "parent_id": 577
+  },
+  {
+    "id": 129,
+    "name": "Madeira",
+    "feature": null,
+    "tdwg_codel": "MDR",
+    "tdwg_level": 3,
+    "species_count": 1435,
+    "parent_id": 411
+  },
+  {
+    "id": 360,
+    "name": "Greenland",
+    "feature": null,
+    "tdwg_codel": "GNL",
+    "tdwg_level": 3,
+    "species_count": 649,
+    "parent_id": 596
+  },
+  {
+    "id": 27,
+    "name": "Zimbabwe",
+    "feature": null,
+    "tdwg_codel": "ZIM",
+    "tdwg_level": 3,
+    "species_count": 6027,
+    "parent_id": 420
+  },
+  {
+    "id": 75,
+    "name": "Zambia",
+    "feature": null,
+    "tdwg_codel": "ZAM",
+    "tdwg_level": 3,
+    "species_count": 6829,
+    "parent_id": 420
+  },
+  {
+    "id": 69,
+    "name": "Sierra Leone",
+    "feature": null,
+    "tdwg_codel": "SIE",
+    "tdwg_level": 3,
+    "species_count": 2959,
+    "parent_id": 412
+  },
+  {
+    "id": 1,
+    "name": "Northern Provinces",
+    "feature": null,
+    "tdwg_codel": "TVL",
+    "tdwg_level": 3,
+    "species_count": 6349,
+    "parent_id": 421
+  },
+  {
+    "id": 36,
+    "name": "Nigeria",
+    "feature": null,
+    "tdwg_codel": "NGA",
+    "tdwg_level": 3,
+    "species_count": 5228,
+    "parent_id": 412
+  },
+  {
+    "id": 26,
+    "name": "Mozambique",
+    "feature": null,
+    "tdwg_codel": "MOZ",
+    "tdwg_level": 3,
+    "species_count": 5957,
+    "parent_id": 420
+  },
+  {
+    "id": 57,
+    "name": "Malawi",
+    "feature": null,
+    "tdwg_codel": "MLW",
+    "tdwg_level": 3,
+    "species_count": 5234,
+    "parent_id": 420
+  },
+  {
+    "id": 56,
+    "name": "Madagascar",
+    "feature": null,
+    "tdwg_codel": "MDG",
+    "tdwg_level": 3,
+    "species_count": 11480,
+    "parent_id": 430
+  },
+  {
+    "id": 55,
+    "name": "Liberia",
+    "feature": null,
+    "tdwg_codel": "LBR",
+    "tdwg_level": 3,
+    "species_count": 2892,
+    "parent_id": 412
+  },
+  {
+    "id": 35,
+    "name": "Ivory Coast",
+    "feature": null,
+    "tdwg_codel": "IVO",
+    "tdwg_level": 3,
+    "species_count": 4097,
+    "parent_id": 412
+  },
+  {
+    "id": 53,
+    "name": "Gulf of Guinea Is.",
+    "feature": null,
+    "tdwg_codel": "GGI",
+    "tdwg_level": 3,
+    "species_count": 2389,
+    "parent_id": 413
+  },
+  {
+    "id": 52,
+    "name": "Guinea-Bissau",
+    "feature": null,
+    "tdwg_codel": "GNB",
+    "tdwg_level": 3,
+    "species_count": 1628,
+    "parent_id": 412
+  },
+  {
+    "id": 51,
+    "name": "Guinea",
+    "feature": null,
+    "tdwg_codel": "GUI",
+    "tdwg_level": 3,
+    "species_count": 3319,
+    "parent_id": 412
+  },
+  {
+    "id": 9,
+    "name": "Ethiopia",
+    "feature": null,
+    "tdwg_codel": "ETH",
+    "tdwg_level": 3,
+    "species_count": 5905,
+    "parent_id": 418
+  },
+  {
+    "id": 32,
+    "name": "Central African Repu",
+    "feature": null,
+    "tdwg_codel": "CAF",
+    "tdwg_level": 3,
+    "species_count": 4016,
+    "parent_id": 413
+  },
+  {
+    "id": 31,
+    "name": "Cameroon",
+    "feature": null,
+    "tdwg_codel": "CMN",
+    "tdwg_level": 3,
+    "species_count": 7615,
+    "parent_id": 413
+  },
+  {
+    "id": 170,
+    "name": "Uruguay",
+    "feature": null,
+    "tdwg_codel": "URU",
+    "tdwg_level": 3,
+    "species_count": 3101,
+    "parent_id": 704
+  },
+  {
+    "id": 160,
+    "name": "Paraguay",
+    "feature": null,
+    "tdwg_codel": "PAR",
+    "tdwg_level": 3,
+    "species_count": 5661,
+    "parent_id": 704
+  },
+  {
+    "id": 184,
+    "name": "St.Helena",
+    "feature": null,
+    "tdwg_codel": "STH",
+    "tdwg_level": 3,
+    "species_count": 484,
+    "parent_id": 429
+  },
+  {
+    "id": 74,
+    "name": "Western Australia",
+    "feature": null,
+    "tdwg_codel": "WAU",
+    "tdwg_level": 3,
+    "species_count": 10375,
+    "parent_id": 566
+  },
+  {
+    "id": 19,
+    "name": "Sinai",
+    "feature": null,
+    "tdwg_codel": "SIN",
+    "tdwg_level": 3,
+    "species_count": 1409,
+    "parent_id": 453
+  },
+  {
+    "id": 269,
+    "name": "Libya",
+    "feature": null,
+    "tdwg_codel": "LBY",
+    "tdwg_level": 3,
+    "species_count": 2158,
+    "parent_id": 408
+  },
+  {
+    "id": 124,
+    "name": "Canary Is.",
+    "feature": null,
+    "tdwg_codel": "CNY",
+    "tdwg_level": 3,
+    "species_count": 2595,
+    "parent_id": 411
+  },
+  {
+    "id": 63,
+    "name": "Nicobar Is.",
+    "feature": null,
+    "tdwg_codel": "NCB",
+    "tdwg_level": 3,
+    "species_count": 1526,
+    "parent_id": 545
+  },
+  {
+    "id": 324,
+    "name": "Xinjiang",
+    "feature": null,
+    "tdwg_codel": "CHX",
+    "tdwg_level": 3,
+    "species_count": 3664,
+    "parent_id": 464
+  },
+  {
+    "id": 345,
+    "name": "Falkland Is.",
+    "feature": null,
+    "tdwg_codel": "FAL",
+    "tdwg_level": 3,
+    "species_count": 360,
+    "parent_id": 743
+  },
+  {
+    "id": 123,
+    "name": "Baleares",
+    "feature": null,
+    "tdwg_codel": "BAL",
+    "tdwg_level": 3,
+    "species_count": 1803,
+    "parent_id": 380
+  },
+  {
+    "id": 115,
+    "name": "Jawa",
+    "feature": null,
+    "tdwg_codel": "JAW",
+    "tdwg_level": 3,
+    "species_count": 6046,
+    "parent_id": 550
+  },
+  {
+    "id": 70,
+    "name": "Sulawesi",
+    "feature": null,
+    "tdwg_codel": "SUL",
+    "tdwg_level": 3,
+    "species_count": 4521,
+    "parent_id": 550
+  },
+  {
+    "id": 61,
+    "name": "New Guinea",
+    "feature": null,
+    "tdwg_codel": "NWG",
+    "tdwg_level": 3,
+    "species_count": 13415,
+    "parent_id": 560
+  },
+  {
+    "id": 60,
+    "name": "Nepal",
+    "feature": null,
+    "tdwg_codel": "NEP",
+    "tdwg_level": 3,
+    "species_count": 6120,
+    "parent_id": 505
+  },
+  {
+    "id": 28,
+    "name": "India",
+    "feature": null,
+    "tdwg_codel": "IND",
+    "tdwg_level": 3,
+    "species_count": 8621,
+    "parent_id": 505
+  },
+  {
+    "id": 118,
+    "name": "East Aegean Is.",
+    "feature": null,
+    "tdwg_codel": "EAI",
+    "tdwg_level": 3,
+    "species_count": 2533,
+    "parent_id": 453
+  },
+  {
+    "id": 266,
+    "name": "Cyprus",
+    "feature": null,
+    "tdwg_codel": "CYP",
+    "tdwg_level": 3,
+    "species_count": 1954,
+    "parent_id": 453
+  },
+  {
+    "id": 186,
+    "name": "Magadan",
+    "feature": null,
+    "tdwg_codel": "MAG",
+    "tdwg_level": 3,
+    "species_count": 1356,
+    "parent_id": 435
+  },
+  {
+    "id": 318,
+    "name": "Kamchatka",
+    "feature": null,
+    "tdwg_codel": "KAM",
+    "tdwg_level": 3,
+    "species_count": 1297,
+    "parent_id": 435
+  },
+  {
+    "id": 24,
+    "name": "Yemen",
+    "feature": null,
+    "tdwg_codel": "YEM",
+    "tdwg_level": 3,
+    "species_count": 2285,
+    "parent_id": 458
+  },
+  {
+    "id": 128,
+    "name": "Kriti",
+    "feature": null,
+    "tdwg_codel": "KRI",
+    "tdwg_level": 3,
+    "species_count": 2340,
+    "parent_id": 387
+  },
+  {
+    "id": 76,
+    "name": "Zaïre",
+    "feature": null,
+    "tdwg_codel": "ZAI",
+    "tdwg_level": 3,
+    "species_count": 10299,
+    "parent_id": 413
+  },
+  {
+    "id": 23,
+    "name": "Uganda",
+    "feature": null,
+    "tdwg_codel": "UGA",
+    "tdwg_level": 3,
+    "species_count": 5419,
+    "parent_id": 419
+  },
+  {
+    "id": 22,
+    "name": "Tanzania",
+    "feature": null,
+    "tdwg_codel": "TAN",
+    "tdwg_level": 3,
+    "species_count": 11210,
+    "parent_id": 419
+  },
+  {
+    "id": 21,
+    "name": "Sudan",
+    "feature": null,
+    "tdwg_codel": "SUD",
+    "tdwg_level": 3,
+    "species_count": 4544,
+    "parent_id": 418
+  },
+  {
+    "id": 322,
+    "name": "Qinghai",
+    "feature": null,
+    "tdwg_codel": "CHQ",
+    "tdwg_level": 3,
+    "species_count": 2332,
+    "parent_id": 464
+  },
+  {
+    "id": 68,
+    "name": "Rwanda",
+    "feature": null,
+    "tdwg_codel": "RWA",
+    "tdwg_level": 3,
+    "species_count": 2896,
+    "parent_id": 413
+  },
+  {
+    "id": 42,
+    "name": "Burundi",
+    "feature": null,
+    "tdwg_codel": "BUR",
+    "tdwg_level": 3,
+    "species_count": 3149,
+    "parent_id": 413
+  },
+  {
+    "id": 151,
+    "name": "Afghanistan",
+    "feature": null,
+    "tdwg_codel": "AFG",
+    "tdwg_level": 3,
+    "species_count": 4833,
+    "parent_id": 453
+  },
+  {
+    "id": 139,
+    "name": "Dominican Republic",
+    "feature": null,
+    "tdwg_codel": "DOM",
+    "tdwg_level": 3,
+    "species_count": 4742,
+    "parent_id": 648
+  },
+  {
+    "id": 73,
+    "name": "West Himalaya",
+    "feature": null,
+    "tdwg_codel": "WHM",
+    "tdwg_level": 3,
+    "species_count": 5406,
+    "parent_id": 505
+  },
+  {
+    "id": 66,
+    "name": "Philippines",
+    "feature": null,
+    "tdwg_codel": "PHI",
+    "tdwg_level": 3,
+    "species_count": 9459,
+    "parent_id": 550
+  },
+  {
+    "id": 308,
+    "name": "Kirgizstan",
+    "feature": null,
+    "tdwg_codel": "KGZ",
+    "tdwg_level": 3,
+    "species_count": 4125,
+    "parent_id": 436
+  },
+  {
+    "id": 267,
+    "name": "Kazakhstan",
+    "feature": null,
+    "tdwg_codel": "KAZ",
+    "tdwg_level": 3,
+    "species_count": 5621,
+    "parent_id": 436
+  },
+  {
+    "id": 133,
+    "name": "New Zealand South",
+    "feature": null,
+    "tdwg_codel": "NZS",
+    "tdwg_level": 3,
+    "species_count": 2598,
+    "parent_id": 575
+  },
+  {
+    "id": 132,
+    "name": "New Zealand North",
+    "feature": null,
+    "tdwg_codel": "NZN",
+    "tdwg_level": 3,
+    "species_count": 2483,
+    "parent_id": 575
+  },
+  {
+    "id": 344,
+    "name": "Chatham Is.",
+    "feature": null,
+    "tdwg_codel": "CTM",
+    "tdwg_level": 3,
+    "species_count": 551,
+    "parent_id": 575
+  },
+  {
+    "id": 2,
+    "name": "Cape Provinces",
+    "feature": null,
+    "tdwg_codel": "CPP",
+    "tdwg_level": 3,
+    "species_count": 17678,
+    "parent_id": 421
+  },
+  {
+    "id": 214,
+    "name": "South Australia",
+    "feature": null,
+    "tdwg_codel": "SOA",
+    "tdwg_level": 3,
+    "species_count": 3772,
+    "parent_id": 566
+  },
+  {
+    "id": 117,
+    "name": "Palestine",
+    "feature": null,
+    "tdwg_codel": "PAL",
+    "tdwg_level": 3,
+    "species_count": 3284,
+    "parent_id": 453
+  },
+  {
+    "id": 108,
+    "name": "Iraq",
+    "feature": null,
+    "tdwg_codel": "IRQ",
+    "tdwg_level": 3,
+    "species_count": 3529,
+    "parent_id": 453
+  },
+  {
+    "id": 10,
+    "name": "Gulf States",
+    "feature": null,
+    "tdwg_codel": "GST",
+    "tdwg_level": 3,
+    "species_count": 826,
+    "parent_id": 458
+  },
+  {
+    "id": 109,
+    "name": "Lebanon-Syria",
+    "feature": null,
+    "tdwg_codel": "LBS",
+    "tdwg_level": 3,
+    "species_count": 4406,
+    "parent_id": 453
+  },
+  {
+    "id": 11,
+    "name": "Iran",
+    "feature": null,
+    "tdwg_codel": "IRN",
+    "tdwg_level": 3,
+    "species_count": 8774,
+    "parent_id": 453
+  },
+  {
+    "id": 18,
+    "name": "Saudi Arabia",
+    "feature": null,
+    "tdwg_codel": "SAU",
+    "tdwg_level": 3,
+    "species_count": 2365,
+    "parent_id": 458
+  },
+  {
+    "id": 16,
+    "name": "Oman",
+    "feature": null,
+    "tdwg_codel": "OMA",
+    "tdwg_level": 3,
+    "species_count": 1396,
+    "parent_id": 458
+  },
+  {
+    "id": 196,
+    "name": "New South Wales",
+    "feature": null,
+    "tdwg_codel": "NSW",
+    "tdwg_level": 3,
+    "species_count": 6659,
+    "parent_id": 566
+  },
+  {
+    "id": 274,
+    "name": "Uzbekistan",
+    "feature": null,
+    "tdwg_codel": "UZB",
+    "tdwg_level": 3,
+    "species_count": 4045,
+    "parent_id": 436
+  },
+  {
+    "id": 337,
+    "name": "Turkmenistan",
+    "feature": null,
+    "tdwg_codel": "TKM",
+    "tdwg_level": 3,
+    "species_count": 2927,
+    "parent_id": 436
+  },
+  {
+    "id": 215,
+    "name": "Tasmania",
+    "feature": null,
+    "tdwg_codel": "TAS",
+    "tdwg_level": 3,
+    "species_count": 2194,
+    "parent_id": 566
+  },
+  {
+    "id": 268,
+    "name": "Krym",
+    "feature": null,
+    "tdwg_codel": "KRY",
+    "tdwg_level": 3,
+    "species_count": 2767,
+    "parent_id": 400
+  },
+  {
+    "id": 273,
+    "name": "Ukraine",
+    "feature": null,
+    "tdwg_codel": "UKR",
+    "tdwg_level": 3,
+    "species_count": 4016,
+    "parent_id": 400
+  },
+  {
+    "id": 292,
+    "name": "Poland",
+    "feature": null,
+    "tdwg_codel": "POL",
+    "tdwg_level": 3,
+    "species_count": 3456,
+    "parent_id": 373
+  },
+  {
+    "id": 96,
+    "name": "Romania",
+    "feature": null,
+    "tdwg_codel": "ROM",
+    "tdwg_level": 3,
+    "species_count": 4235,
+    "parent_id": 387
+  },
+  {
+    "id": 291,
+    "name": "Norway",
+    "feature": null,
+    "tdwg_codel": "NOR",
+    "tdwg_level": 3,
+    "species_count": 2602,
+    "parent_id": 370
+  },
+  {
+    "id": 316,
+    "name": "Svalbard",
+    "feature": null,
+    "tdwg_codel": "SVA",
+    "tdwg_level": 3,
+    "species_count": 220,
+    "parent_id": 370
+  },
+  {
+    "id": 287,
+    "name": "Netherlands",
+    "feature": null,
+    "tdwg_codel": "NET",
+    "tdwg_level": 3,
+    "species_count": 2441,
+    "parent_id": 373
+  },
+  {
+    "id": 97,
+    "name": "Turkey-in-Europe",
+    "feature": null,
+    "tdwg_codel": "TUE",
+    "tdwg_level": 3,
+    "species_count": 2640,
+    "parent_id": 387
+  },
+  {
+    "id": 98,
+    "name": "Yugoslavia",
+    "feature": null,
+    "tdwg_codel": "YUG",
+    "tdwg_level": 3,
+    "species_count": 6289,
+    "parent_id": 387
+  },
+  {
+    "id": 121,
+    "name": "Sicilia",
+    "feature": null,
+    "tdwg_codel": "SIC",
+    "tdwg_level": 3,
+    "species_count": 3119,
+    "parent_id": 387
+  },
+  {
+    "id": 120,
+    "name": "Sardegna",
+    "feature": null,
+    "tdwg_codel": "SAR",
+    "tdwg_level": 3,
+    "species_count": 2470,
+    "parent_id": 380
+  },
+  {
+    "id": 134,
+    "name": "Portugal",
+    "feature": null,
+    "tdwg_codel": "POR",
+    "tdwg_level": 3,
+    "species_count": 3482,
+    "parent_id": 380
+  },
+  {
+    "id": 290,
+    "name": "Northwest European R",
+    "feature": null,
+    "tdwg_codel": "RUW",
+    "tdwg_level": 3,
+    "species_count": 1946,
+    "parent_id": 400
+  },
+  {
+    "id": 131,
+    "name": "Morocco",
+    "feature": null,
+    "tdwg_codel": "MOR",
+    "tdwg_level": 3,
+    "species_count": 5100,
+    "parent_id": 408
+  },
+  {
+    "id": 119,
+    "name": "Italy",
+    "feature": null,
+    "tdwg_codel": "ITA",
+    "tdwg_level": 3,
+    "species_count": 7587,
+    "parent_id": 387
+  },
+  {
+    "id": 314,
+    "name": "Iceland",
+    "feature": null,
+    "tdwg_codel": "ICE",
+    "tdwg_level": 3,
+    "species_count": 930,
+    "parent_id": 370
+  },
+  {
+    "id": 125,
+    "name": "Corse",
+    "feature": null,
+    "tdwg_codel": "COR",
+    "tdwg_level": 3,
+    "species_count": 2636,
+    "parent_id": 380
+  },
+  {
+    "id": 283,
+    "name": "Føroyar",
+    "feature": null,
+    "tdwg_codel": "FOR",
+    "tdwg_level": 3,
+    "species_count": 445,
+    "parent_id": 370
+  },
+  {
+    "id": 282,
+    "name": "Finland",
+    "feature": null,
+    "tdwg_codel": "FIN",
+    "tdwg_level": 3,
+    "species_count": 2722,
+    "parent_id": 370
+  },
+  {
+    "id": 333,
+    "name": "Chile South",
+    "feature": null,
+    "tdwg_codel": "CLS",
+    "tdwg_level": 3,
+    "species_count": 1718,
+    "parent_id": 704
+  },
+  {
+    "id": 210,
+    "name": "Victoria",
+    "feature": null,
+    "tdwg_codel": "VIC",
+    "tdwg_level": 3,
+    "species_count": 3947,
+    "parent_id": 566
+  },
+  {
+    "id": 288,
+    "name": "North Caucasus",
+    "feature": null,
+    "tdwg_codel": "NCS",
+    "tdwg_level": 3,
+    "species_count": 3254,
+    "parent_id": 437
+  },
+  {
+    "id": 276,
+    "name": "Baltic States",
+    "feature": null,
+    "tdwg_codel": "BLT",
+    "tdwg_level": 3,
+    "species_count": 2360,
+    "parent_id": 400
+  },
+  {
+    "id": 303,
+    "name": "Altay",
+    "feature": null,
+    "tdwg_codel": "ALT",
+    "tdwg_level": 3,
+    "species_count": 2826,
+    "parent_id": 434
+  },
+  {
+    "id": 296,
+    "name": "West Siberia",
+    "feature": null,
+    "tdwg_codel": "WSB",
+    "tdwg_level": 3,
+    "species_count": 2565,
+    "parent_id": 434
+  },
+  {
+    "id": 277,
+    "name": "Belarus",
+    "feature": null,
+    "tdwg_codel": "BLR",
+    "tdwg_level": 3,
+    "species_count": 1941,
+    "parent_id": 400
+  },
+  {
+    "id": 135,
+    "name": "Spain",
+    "feature": null,
+    "tdwg_codel": "SPA",
+    "tdwg_level": 3,
+    "species_count": 8036,
+    "parent_id": 380
+  },
+  {
+    "id": 270,
+    "name": "South European Russi",
+    "feature": null,
+    "tdwg_codel": "RUS",
+    "tdwg_level": 3,
+    "species_count": 2505,
+    "parent_id": 400
+  },
+  {
+    "id": 294,
+    "name": "Switzerland",
+    "feature": null,
+    "tdwg_codel": "SWI",
+    "tdwg_level": 3,
+    "species_count": 4207,
+    "parent_id": 373
+  },
+  {
+    "id": 272,
+    "name": "Transcaucasus",
+    "feature": null,
+    "tdwg_codel": "TCS",
+    "tdwg_level": 3,
+    "species_count": 5817,
+    "parent_id": 437
+  },
+  {
+    "id": 293,
+    "name": "Sweden",
+    "feature": null,
+    "tdwg_codel": "SWE",
+    "tdwg_level": 3,
+    "species_count": 4297,
+    "parent_id": 370
+  },
+  {
+    "id": 94,
+    "name": "Bulgaria",
+    "feature": null,
+    "tdwg_codel": "BUL",
+    "tdwg_level": 3,
+    "species_count": 4386,
+    "parent_id": 387
+  },
+  {
+    "id": 289,
+    "name": "North European Russi",
+    "feature": null,
+    "tdwg_codel": "RUN",
+    "tdwg_level": 3,
+    "species_count": 2240,
+    "parent_id": 400
+  },
+  {
+    "id": 275,
+    "name": "Austria",
+    "feature": null,
+    "tdwg_codel": "AUT",
+    "tdwg_level": 3,
+    "species_count": 4824,
+    "parent_id": 373
+  },
+  {
+    "id": 328,
+    "name": "Montana",
+    "feature": null,
+    "tdwg_codel": "MNT",
+    "tdwg_level": 3,
+    "species_count": 2694,
+    "parent_id": 601
+  },
+  {
+    "id": 286,
+    "name": "Ireland",
+    "feature": null,
+    "tdwg_codel": "IRE",
+    "tdwg_level": 3,
+    "species_count": 1940,
+    "parent_id": 370
+  },
+  {
+    "id": 107,
+    "name": "Turkey",
+    "feature": null,
+    "tdwg_codel": "TUR",
+    "tdwg_level": 3,
+    "species_count": 11179,
+    "parent_id": 453
+  },
+  {
+    "id": 127,
+    "name": "Great Britain",
+    "feature": null,
+    "tdwg_codel": "GRB",
+    "tdwg_level": 3,
+    "species_count": 4610,
+    "parent_id": 370
+  },
+  {
+    "id": 126,
+    "name": "France",
+    "feature": null,
+    "tdwg_codel": "FRA",
+    "tdwg_level": 3,
+    "species_count": 7832,
+    "parent_id": 380
+  },
+  {
+    "id": 297,
+    "name": "British Columbia",
+    "feature": null,
+    "tdwg_codel": "BRC",
+    "tdwg_level": 3,
+    "species_count": 3142,
+    "parent_id": 597
+  },
+  {
+    "id": 278,
+    "name": "Belgium",
+    "feature": null,
+    "tdwg_codel": "BGM",
+    "tdwg_level": 3,
+    "species_count": 2917,
+    "parent_id": 373
+  },
+  {
+    "id": 284,
+    "name": "Germany",
+    "feature": null,
+    "tdwg_codel": "GER",
+    "tdwg_level": 3,
+    "species_count": 5225,
+    "parent_id": 373
+  },
+  {
+    "id": 280,
+    "name": "Denmark",
+    "feature": null,
+    "tdwg_codel": "DEN",
+    "tdwg_level": 3,
+    "species_count": 2274,
+    "parent_id": 370
+  },
+  {
+    "id": 279,
+    "name": "Central European Rus",
+    "feature": null,
+    "tdwg_codel": "RUC",
+    "tdwg_level": 3,
+    "species_count": 2632,
+    "parent_id": 400
+  },
+  {
+    "id": 93,
+    "name": "Albania",
+    "feature": null,
+    "tdwg_codel": "ALB",
+    "tdwg_level": 3,
+    "species_count": 3969,
+    "parent_id": 387
+  },
+  {
+    "id": 271,
+    "name": "Tadzhikistan",
+    "feature": null,
+    "tdwg_codel": "TZK",
+    "tdwg_level": 3,
+    "species_count": 4519,
+    "parent_id": 436
+  },
+  {
+    "id": 264,
+    "name": "Argentina South",
+    "feature": null,
+    "tdwg_codel": "AGS",
+    "tdwg_level": 3,
+    "species_count": 2636,
+    "parent_id": 704
+  },
+  {
+    "id": 246,
+    "name": "Chile North",
+    "feature": null,
+    "tdwg_codel": "CLN",
+    "tdwg_level": 3,
+    "species_count": 1951,
+    "parent_id": 704
+  },
+  {
+    "id": 257,
+    "name": "Minnesota",
+    "feature": null,
+    "tdwg_codel": "MIN",
+    "tdwg_level": 3,
+    "species_count": 2138,
+    "parent_id": 602
+  },
+  {
+    "id": 155,
+    "name": "Costa Rica",
+    "feature": null,
+    "tdwg_codel": "COS",
+    "tdwg_level": 3,
+    "species_count": 10428,
+    "parent_id": 644
+  },
+  {
+    "id": 99,
+    "name": "Czechoslovakia",
+    "feature": null,
+    "tdwg_codel": "CZE",
+    "tdwg_level": 3,
+    "species_count": 4931,
+    "parent_id": 373
+  },
+  {
+    "id": 281,
+    "name": "East European Russia",
+    "feature": null,
+    "tdwg_codel": "RUE",
+    "tdwg_level": 3,
+    "species_count": 2516,
+    "parent_id": 400
+  },
+  {
+    "id": 285,
+    "name": "Hungary",
+    "feature": null,
+    "tdwg_codel": "HUN",
+    "tdwg_level": 3,
+    "species_count": 3092,
+    "parent_id": 373
+  },
+  {
+    "id": 313,
+    "name": "Yakutskiya",
+    "feature": null,
+    "tdwg_codel": "YAK",
+    "tdwg_level": 3,
+    "species_count": 1702,
+    "parent_id": 434
+  },
+  {
+    "id": 323,
+    "name": "Sakhalin",
+    "feature": null,
+    "tdwg_codel": "SAK",
+    "tdwg_level": 3,
+    "species_count": 1513,
+    "parent_id": 435
+  },
+  {
+    "id": 320,
+    "name": "Kuril Is.",
+    "feature": null,
+    "tdwg_codel": "KUR",
+    "tdwg_level": 3,
+    "species_count": 1322,
+    "parent_id": 435
+  },
+  {
+    "id": 319,
+    "name": "Khabarovsk",
+    "feature": null,
+    "tdwg_codel": "KHA",
+    "tdwg_level": 3,
+    "species_count": 2121,
+    "parent_id": 435
+  },
+  {
+    "id": 307,
+    "name": "Irkutsk",
+    "feature": null,
+    "tdwg_codel": "IRK",
+    "tdwg_level": 3,
+    "species_count": 1879,
+    "parent_id": 434
+  },
+  {
+    "id": 306,
+    "name": "Chita",
+    "feature": null,
+    "tdwg_codel": "CTA",
+    "tdwg_level": 3,
+    "species_count": 1668,
+    "parent_id": 434
+  },
+  {
+    "id": 305,
+    "name": "Buryatiya",
+    "feature": null,
+    "tdwg_codel": "BRY",
+    "tdwg_level": 3,
+    "species_count": 1977,
+    "parent_id": 434
+  },
+  {
+    "id": 304,
+    "name": "Amur",
+    "feature": null,
+    "tdwg_codel": "AMU",
+    "tdwg_level": 3,
+    "species_count": 1623,
+    "parent_id": 435
+  },
+  {
+    "id": 301,
+    "name": "Prince Edward I.",
+    "feature": null,
+    "tdwg_codel": "PEI",
+    "tdwg_level": 3,
+    "species_count": 963,
+    "parent_id": 598
+  },
+  {
+    "id": 242,
+    "name": "Québec",
+    "feature": null,
+    "tdwg_codel": "QUE",
+    "tdwg_level": 3,
+    "species_count": 2545,
+    "parent_id": 598
+  },
+  {
+    "id": 300,
+    "name": "Newfoundland",
+    "feature": null,
+    "tdwg_codel": "NFL",
+    "tdwg_level": 3,
+    "species_count": 1298,
+    "parent_id": 598
+  },
+  {
+    "id": 260,
+    "name": "New Brunswick",
+    "feature": null,
+    "tdwg_codel": "NBR",
+    "tdwg_level": 3,
+    "species_count": 1525,
+    "parent_id": 598
+  },
+  {
+    "id": 299,
+    "name": "Labrador",
+    "feature": null,
+    "tdwg_codel": "LAB",
+    "tdwg_level": 3,
+    "species_count": 774,
+    "parent_id": 598
+  },
+  {
+    "id": 317,
+    "name": "Inner Mongolia",
+    "feature": null,
+    "tdwg_codel": "CHI",
+    "tdwg_level": 3,
+    "species_count": 2405,
+    "parent_id": 464
+  },
+  {
+    "id": 311,
+    "name": "Primorye",
+    "feature": null,
+    "tdwg_codel": "PRM",
+    "tdwg_level": 3,
+    "species_count": 2515,
+    "parent_id": 435
+  },
+  {
+    "id": 310,
+    "name": "Manchuria",
+    "feature": null,
+    "tdwg_codel": "CHM",
+    "tdwg_level": 3,
+    "species_count": 2734,
+    "parent_id": 464
+  },
+  {
+    "id": 326,
+    "name": "Alberta",
+    "feature": null,
+    "tdwg_codel": "ABT",
+    "tdwg_level": 3,
+    "species_count": 1941,
+    "parent_id": 597
+  },
+  {
+    "id": 261,
+    "name": "Nova Scotia",
+    "feature": null,
+    "tdwg_codel": "NSC",
+    "tdwg_level": 3,
+    "species_count": 1547,
+    "parent_id": 598
+  },
+  {
+    "id": 255,
+    "name": "New Hampshire",
+    "feature": null,
+    "tdwg_codel": "NWH",
+    "tdwg_level": 3,
+    "species_count": 2004,
+    "parent_id": 603
+  },
+  {
+    "id": 253,
+    "name": "Maine",
+    "feature": null,
+    "tdwg_codel": "MAI",
+    "tdwg_level": 3,
+    "species_count": 2226,
+    "parent_id": 603
+  },
+  {
+    "id": 312,
+    "name": "Tuva",
+    "feature": null,
+    "tdwg_codel": "TVA",
+    "tdwg_level": 3,
+    "species_count": 1795,
+    "parent_id": 434
+  },
+  {
+    "id": 321,
+    "name": "Mongolia",
+    "feature": null,
+    "tdwg_codel": "MON",
+    "tdwg_level": 3,
+    "species_count": 2992,
+    "parent_id": 496
+  },
+  {
+    "id": 309,
+    "name": "Krasnoyarsk",
+    "feature": null,
+    "tdwg_codel": "KRA",
+    "tdwg_level": 3,
+    "species_count": 2344,
+    "parent_id": 434
+  },
+  {
+    "id": 346,
+    "name": "Wyoming",
+    "feature": null,
+    "tdwg_codel": "WYO",
+    "tdwg_level": 3,
+    "species_count": 2632,
+    "parent_id": 601
+  },
+  {
+    "id": 332,
+    "name": "North Dakota",
+    "feature": null,
+    "tdwg_codel": "NDA",
+    "tdwg_level": 3,
+    "species_count": 1393,
+    "parent_id": 602
+  },
+  {
+    "id": 259,
+    "name": "Manitoba",
+    "feature": null,
+    "tdwg_codel": "MAN",
+    "tdwg_level": 3,
+    "species_count": 1625,
+    "parent_id": 597
+  },
+  {
+    "id": 153,
+    "name": "Jamaica",
+    "feature": null,
+    "tdwg_codel": "JAM",
+    "tdwg_level": 3,
+    "species_count": 3782,
+    "parent_id": 648
+  },
+  {
+    "id": 327,
+    "name": "Idaho",
+    "feature": null,
+    "tdwg_codel": "IDA",
+    "tdwg_level": 3,
+    "species_count": 2897,
+    "parent_id": 601
+  },
+  {
+    "id": 164,
+    "name": "Arizona",
+    "feature": null,
+    "tdwg_codel": "ARI",
+    "tdwg_level": 3,
+    "species_count": 4166,
+    "parent_id": 604
+  },
+  {
+    "id": 341,
+    "name": "Utah",
+    "feature": null,
+    "tdwg_codel": "UTA",
+    "tdwg_level": 3,
+    "species_count": 3528,
+    "parent_id": 604
+  },
+  {
+    "id": 188,
+    "name": "Nevada",
+    "feature": null,
+    "tdwg_codel": "NEV",
+    "tdwg_level": 3,
+    "species_count": 3212,
+    "parent_id": 604
+  },
+  {
+    "id": 302,
+    "name": "Washington",
+    "feature": null,
+    "tdwg_codel": "WAS",
+    "tdwg_level": 3,
+    "species_count": 3286,
+    "parent_id": 601
+  },
+  {
+    "id": 223,
+    "name": "Chile Central",
+    "feature": null,
+    "tdwg_codel": "CLC",
+    "tdwg_level": 3,
+    "species_count": 3594,
+    "parent_id": 704
+  },
+  {
+    "id": 167,
+    "name": "New Mexico",
+    "feature": null,
+    "tdwg_codel": "NWM",
+    "tdwg_level": 3,
+    "species_count": 4339,
+    "parent_id": 605
+  },
+  {
+    "id": 95,
+    "name": "Greece",
+    "feature": null,
+    "tdwg_codel": "GRC",
+    "tdwg_level": 3,
+    "species_count": 6206,
+    "parent_id": 387
+  },
+  {
+    "id": 202,
+    "name": "Japan",
+    "feature": null,
+    "tdwg_codel": "JAP",
+    "tdwg_level": 3,
+    "species_count": 6158,
+    "parent_id": 497
+  },
+  {
+    "id": 244,
+    "name": "West Virginia",
+    "feature": null,
+    "tdwg_codel": "WVA",
+    "tdwg_level": 3,
+    "species_count": 2233,
+    "parent_id": 603
+  },
+  {
+    "id": 145,
+    "name": "Illinois",
+    "feature": null,
+    "tdwg_codel": "ILL",
+    "tdwg_level": 3,
+    "species_count": 3583,
+    "parent_id": 602
+  },
+  {
+    "id": 252,
+    "name": "Connecticut",
+    "feature": null,
+    "tdwg_codel": "CNT",
+    "tdwg_level": 3,
+    "species_count": 2398,
+    "parent_id": 603
+  },
+  {
+    "id": 191,
+    "name": "Georgia",
+    "feature": null,
+    "tdwg_codel": "GEO",
+    "tdwg_level": 3,
+    "species_count": 3560,
+    "parent_id": 606
+  },
+  {
+    "id": 229,
+    "name": "District of Columbia",
+    "feature": null,
+    "tdwg_codel": "WDC",
+    "tdwg_level": 3,
+    "species_count": 1365,
+    "parent_id": 606
+  },
+  {
+    "id": 228,
+    "name": "Delaware",
+    "feature": null,
+    "tdwg_codel": "DEL",
+    "tdwg_level": 3,
+    "species_count": 1945,
+    "parent_id": 606
+  }
+]

@@ -1,7 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 
+import places from './places.json'
+
 function App() {
+
+  console.log(places)
+  
   return (
     <div className="App">
       <header className="App-header">
